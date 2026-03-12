@@ -1,0 +1,679 @@
+RoundNumber                                                      17
+Country                                               United States
+Location                                                     Austin
+OfficialEventName    FORMULA 1 ARAMCO UNITED STATES GRAND PRIX 2021
+EventDate                                       2021-10-24 00:00:00
+EventName                                  United States Grand Prix
+EventFormat                                            conventional
+Session1                                                 Practice 1
+Session1Date                              2021-10-22 11:30:00-05:00
+Session1DateUtc                                 2021-10-22 16:30:00
+Session2                                                 Practice 2
+Session2Date                              2021-10-22 15:00:00-05:00
+Session2DateUtc                                 2021-10-22 20:00:00
+Session3                                                 Practice 3
+Session3Date                              2021-10-23 13:00:00-05:00
+Session3DateUtc                                 2021-10-23 18:00:00
+Session4                                                 Qualifying
+Session4Date                              2021-10-23 16:00:00-05:00
+Session4DateUtc                                 2021-10-23 21:00:00
+Session5                                                       Race
+Session5Date                              2021-10-24 14:00:00-05:00
+Session5DateUtc                                 2021-10-24 19:00:00
+F1ApiSupport                                                   True
+Name: 17, dtype: object
+2021 FORMULA 1 ARAMCO PRE-SEASON TESTING 2021 S
+Exception Session type 'S' does not exist for this event
+2021 FORMULA 1 ARAMCO PRE-SEASON TESTING 2021 SS
+Exception Session type 'SS' does not exist for this event
+2021 FORMULA 1 ARAMCO PRE-SEASON TESTING 2021 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                   1
+Country                                                 Bahrain
+Location                                                 Sakhir
+OfficialEventName    FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021
+EventDate                                   2021-03-28 00:00:00
+EventName                                    Bahrain Grand Prix
+EventFormat                                        conventional
+Session1                                             Practice 1
+Session1Date                          2021-03-26 14:30:00+03:00
+Session1DateUtc                             2021-03-26 11:30:00
+Session2                                             Practice 2
+Session2Date                          2021-03-26 18:00:00+03:00
+Session2DateUtc                             2021-03-26 15:00:00
+Session3                                             Practice 3
+Session3Date                          2021-03-27 15:00:00+03:00
+Session3DateUtc                             2021-03-27 12:00:00
+Session4                                             Qualifying
+Session4Date                          2021-03-27 18:00:00+03:00
+Session4DateUtc                             2021-03-27 15:00:00
+Session5                                                   Race
+Session5Date                          2021-03-28 18:00:00+03:00
+Session5DateUtc                             2021-03-28 15:00:00
+F1ApiSupport                                               True
+Name: 1, dtype: object
+2021 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021 S
+Exception Session type 'S' does not exist for this event
+2021 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021 SS
+Exception Session type 'SS' does not exist for this event
+2021 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                          2
+Country                                                          Italy
+Location                                                         Imola
+OfficialEventName    FORMULA 1 PIRELLI GRAN PREMIO DEL MADE IN ITAL...
+EventDate                                          2021-04-18 00:00:00
+EventName                                    Emilia Romagna Grand Prix
+EventFormat                                               conventional
+Session1                                                    Practice 1
+Session1Date                                 2021-04-16 11:00:00+02:00
+Session1DateUtc                                    2021-04-16 09:00:00
+Session2                                                    Practice 2
+Session2Date                                 2021-04-16 14:30:00+02:00
+Session2DateUtc                                    2021-04-16 12:30:00
+Session3                                                    Practice 3
+Session3Date                                 2021-04-17 11:00:00+02:00
+Session3DateUtc                                    2021-04-17 09:00:00
+Session4                                                    Qualifying
+Session4Date                                 2021-04-17 14:00:00+02:00
+Session4DateUtc                                    2021-04-17 12:00:00
+Session5                                                          Race
+Session5Date                                 2021-04-18 15:00:00+02:00
+Session5DateUtc                                    2021-04-18 13:00:00
+F1ApiSupport                                                      True
+Name: 2, dtype: object
+2021 FORMULA 1 PIRELLI GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA ROMAGNA 2021 S
+Exception Session type 'S' does not exist for this event
+2021 FORMULA 1 PIRELLI GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA ROMAGNA 2021 SS
+Exception Session type 'SS' does not exist for this event
+2021 FORMULA 1 PIRELLI GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA ROMAGNA 2021 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                          3
+Country                                                       Portugal
+Location                                                      Portimão
+OfficialEventName    FORMULA 1 HEINEKEN GRANDE PRÉMIO DE PORTUGAL 2021
+EventDate                                          2021-05-02 00:00:00
+EventName                                        Portuguese Grand Prix
+EventFormat                                               conventional
+Session1                                                    Practice 1
+Session1Date                                 2021-04-30 11:30:00+01:00
+Session1DateUtc                                    2021-04-30 10:30:00
+Session2                                                    Practice 2
+Session2Date                                 2021-04-30 15:00:00+01:00
+Session2DateUtc                                    2021-04-30 14:00:00
+Session3                                                    Practice 3
+Session3Date                                 2021-05-01 12:00:00+01:00
+Session3DateUtc                                    2021-05-01 11:00:00
+Session4                                                    Qualifying
+Session4Date                                 2021-05-01 15:00:00+01:00
+Session4DateUtc                                    2021-05-01 14:00:00
+Session5                                                          Race
+Session5Date                                 2021-05-02 15:00:00+01:00
+Session5DateUtc                                    2021-05-02 14:00:00
+F1ApiSupport                                                      True
+Name: 3, dtype: object
+2021 FORMULA 1 HEINEKEN GRANDE PRÉMIO DE PORTUGAL 2021 S
+Exception Session type 'S' does not exist for this event
+2021 FORMULA 1 HEINEKEN GRANDE PRÉMIO DE PORTUGAL 2021 SS
+Exception Session type 'SS' does not exist for this event
+2021 FORMULA 1 HEINEKEN GRANDE PRÉMIO DE PORTUGAL 2021 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                    4
+Country                                                    Spain
+Location                                               Barcelona
+OfficialEventName    FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2021
+EventDate                                    2021-05-09 00:00:00
+EventName                                     Spanish Grand Prix
+EventFormat                                         conventional
+Session1                                              Practice 1
+Session1Date                           2021-05-07 11:30:00+02:00
+Session1DateUtc                              2021-05-07 09:30:00
+Session2                                              Practice 2
+Session2Date                           2021-05-07 15:00:00+02:00
+Session2DateUtc                              2021-05-07 13:00:00
+Session3                                              Practice 3
+Session3Date                           2021-05-08 12:00:00+02:00
+Session3DateUtc                              2021-05-08 10:00:00
+Session4                                              Qualifying
+Session4Date                           2021-05-08 15:00:00+02:00
+Session4DateUtc                              2021-05-08 13:00:00
+Session5                                                    Race
+Session5Date                           2021-05-09 15:00:00+02:00
+Session5DateUtc                              2021-05-09 13:00:00
+F1ApiSupport                                                True
+Name: 4, dtype: object
+2021 FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2021 S
+Exception Session type 'S' does not exist for this event
+2021 FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2021 SS
+Exception Session type 'SS' does not exist for this event
+2021 FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2021 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                            5
+Country                                           Monaco
+Location                                     Monte Carlo
+OfficialEventName    FORMULA 1 GRAND PRIX DE MONACO 2021
+EventDate                            2021-05-23 00:00:00
+EventName                              Monaco Grand Prix
+EventFormat                                 conventional
+Session1                                      Practice 1
+Session1Date                   2021-05-20 11:30:00+02:00
+Session1DateUtc                      2021-05-20 09:30:00
+Session2                                      Practice 2
+Session2Date                   2021-05-20 15:00:00+02:00
+Session2DateUtc                      2021-05-20 13:00:00
+Session3                                      Practice 3
+Session3Date                   2021-05-22 12:00:00+02:00
+Session3DateUtc                      2021-05-22 10:00:00
+Session4                                      Qualifying
+Session4Date                   2021-05-22 15:00:00+02:00
+Session4DateUtc                      2021-05-22 13:00:00
+Session5                                            Race
+Session5Date                   2021-05-23 15:00:00+02:00
+Session5DateUtc                      2021-05-23 13:00:00
+F1ApiSupport                                        True
+Name: 5, dtype: object
+2021 FORMULA 1 GRAND PRIX DE MONACO 2021 S
+Exception Session type 'S' does not exist for this event
+2021 FORMULA 1 GRAND PRIX DE MONACO 2021 SS
+Exception Session type 'SS' does not exist for this event
+2021 FORMULA 1 GRAND PRIX DE MONACO 2021 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                             6
+Country                                        Azerbaijan
+Location                                             Baku
+OfficialEventName    FORMULA 1 AZERBAIJAN GRAND PRIX 2021
+EventDate                             2021-06-06 00:00:00
+EventName                           Azerbaijan Grand Prix
+EventFormat                                  conventional
+Session1                                       Practice 1
+Session1Date                    2021-06-04 12:30:00+04:00
+Session1DateUtc                       2021-06-04 08:30:00
+Session2                                       Practice 2
+Session2Date                    2021-06-04 16:00:00+04:00
+Session2DateUtc                       2021-06-04 12:00:00
+Session3                                       Practice 3
+Session3Date                    2021-06-05 13:00:00+04:00
+Session3DateUtc                       2021-06-05 09:00:00
+Session4                                       Qualifying
+Session4Date                    2021-06-05 16:00:00+04:00
+Session4DateUtc                       2021-06-05 12:00:00
+Session5                                             Race
+Session5Date                    2021-06-06 16:00:00+04:00
+Session5DateUtc                       2021-06-06 12:00:00
+F1ApiSupport                                         True
+Name: 6, dtype: object
+2021 FORMULA 1 AZERBAIJAN GRAND PRIX 2021 S
+Exception Session type 'S' does not exist for this event
+2021 FORMULA 1 AZERBAIJAN GRAND PRIX 2021 SS
+Exception Session type 'SS' does not exist for this event
+2021 FORMULA 1 AZERBAIJAN GRAND PRIX 2021 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                     7
+Country                                                    France
+Location                                             Le Castellet
+OfficialEventName    FORMULA 1 EMIRATES GRAND PRIX DE FRANCE 2021
+EventDate                                     2021-06-20 00:00:00
+EventName                                       French Grand Prix
+EventFormat                                          conventional
+Session1                                               Practice 1
+Session1Date                            2021-06-18 11:30:00+02:00
+Session1DateUtc                               2021-06-18 09:30:00
+Session2                                               Practice 2
+Session2Date                            2021-06-18 15:00:00+02:00
+Session2DateUtc                               2021-06-18 13:00:00
+Session3                                               Practice 3
+Session3Date                            2021-06-19 12:00:00+02:00
+Session3DateUtc                               2021-06-19 10:00:00
+Session4                                               Qualifying
+Session4Date                            2021-06-19 15:00:00+02:00
+Session4DateUtc                               2021-06-19 13:00:00
+Session5                                                     Race
+Session5Date                            2021-06-20 15:00:00+02:00
+Session5DateUtc                               2021-06-20 13:00:00
+F1ApiSupport                                                 True
+Name: 7, dtype: object
+2021 FORMULA 1 EMIRATES GRAND PRIX DE FRANCE 2021 S
+Exception Session type 'S' does not exist for this event
+2021 FORMULA 1 EMIRATES GRAND PRIX DE FRANCE 2021 SS
+Exception Session type 'SS' does not exist for this event
+2021 FORMULA 1 EMIRATES GRAND PRIX DE FRANCE 2021 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                        8
+Country                                                      Austria
+Location                                                   Spielberg
+OfficialEventName    FORMULA 1 BWT GROSSER PREIS DER STEIERMARK 2021
+EventDate                                        2021-06-27 00:00:00
+EventName                                         Styrian Grand Prix
+EventFormat                                             conventional
+Session1                                                  Practice 1
+Session1Date                               2021-06-25 11:30:00+02:00
+Session1DateUtc                                  2021-06-25 09:30:00
+Session2                                                  Practice 2
+Session2Date                               2021-06-25 15:00:00+02:00
+Session2DateUtc                                  2021-06-25 13:00:00
+Session3                                                  Practice 3
+Session3Date                               2021-06-26 12:00:00+02:00
+Session3DateUtc                                  2021-06-26 10:00:00
+Session4                                                  Qualifying
+Session4Date                               2021-06-26 15:00:00+02:00
+Session4DateUtc                                  2021-06-26 13:00:00
+Session5                                                        Race
+Session5Date                               2021-06-27 15:00:00+02:00
+Session5DateUtc                                  2021-06-27 13:00:00
+F1ApiSupport                                                    True
+Name: 8, dtype: object
+2021 FORMULA 1 BWT GROSSER PREIS DER STEIERMARK 2021 S
+Exception Session type 'S' does not exist for this event
+2021 FORMULA 1 BWT GROSSER PREIS DER STEIERMARK 2021 SS
+Exception Session type 'SS' does not exist for this event
+2021 FORMULA 1 BWT GROSSER PREIS DER STEIERMARK 2021 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                        9
+Country                                                      Austria
+Location                                                   Spielberg
+OfficialEventName    FORMULA 1 BWT GROSSER PREIS VON ÖSTERREICH 2021
+EventDate                                        2021-07-04 00:00:00
+EventName                                        Austrian Grand Prix
+EventFormat                                             conventional
+Session1                                                  Practice 1
+Session1Date                               2021-07-02 11:30:00+02:00
+Session1DateUtc                                  2021-07-02 09:30:00
+Session2                                                  Practice 2
+Session2Date                               2021-07-02 15:00:00+02:00
+Session2DateUtc                                  2021-07-02 13:00:00
+Session3                                                  Practice 3
+Session3Date                               2021-07-03 12:00:00+02:00
+Session3DateUtc                                  2021-07-03 10:00:00
+Session4                                                  Qualifying
+Session4Date                               2021-07-03 15:00:00+02:00
+Session4DateUtc                                  2021-07-03 13:00:00
+Session5                                                        Race
+Session5Date                               2021-07-04 15:00:00+02:00
+Session5DateUtc                                  2021-07-04 13:00:00
+F1ApiSupport                                                    True
+Name: 9, dtype: object
+2021 FORMULA 1 BWT GROSSER PREIS VON ÖSTERREICH 2021 S
+Exception Session type 'S' does not exist for this event
+2021 FORMULA 1 BWT GROSSER PREIS VON ÖSTERREICH 2021 SS
+Exception Session type 'SS' does not exist for this event
+2021 FORMULA 1 BWT GROSSER PREIS VON ÖSTERREICH 2021 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                 10
+Country                                          Great Britain
+Location                                           Silverstone
+OfficialEventName    FORMULA 1 PIRELLI BRITISH GRAND PRIX 2021
+EventDate                                  2021-07-18 00:00:00
+EventName                                   British Grand Prix
+EventFormat                                             sprint
+Session1                                            Practice 1
+Session1Date                         2021-07-16 14:30:00+01:00
+Session1DateUtc                            2021-07-16 13:30:00
+Session2                                            Qualifying
+Session2Date                         2021-07-16 18:00:00+01:00
+Session2DateUtc                            2021-07-16 17:00:00
+Session3                                            Practice 2
+Session3Date                         2021-07-17 12:00:00+01:00
+Session3DateUtc                            2021-07-17 11:00:00
+Session4                                                Sprint
+Session4Date                         2021-07-17 16:30:00+01:00
+Session4DateUtc                            2021-07-17 15:30:00
+Session5                                                  Race
+Session5Date                         2021-07-18 15:00:00+01:00
+Session5DateUtc                            2021-07-18 14:00:00
+F1ApiSupport                                              True
+Name: 10, dtype: object
+2021 FORMULA 1 PIRELLI BRITISH GRAND PRIX 2021 SS
+Exception Session type 'SS' does not exist for this event
+RoundNumber                                           11
+Country                                          Hungary
+Location                                        Budapest
+OfficialEventName    FORMULA 1 ROLEX MAGYAR NAGYDÍJ 2021
+EventDate                            2021-08-01 00:00:00
+EventName                           Hungarian Grand Prix
+EventFormat                                 conventional
+Session1                                      Practice 1
+Session1Date                   2021-07-30 11:30:00+02:00
+Session1DateUtc                      2021-07-30 09:30:00
+Session2                                      Practice 2
+Session2Date                   2021-07-30 15:00:00+02:00
+Session2DateUtc                      2021-07-30 13:00:00
+Session3                                      Practice 3
+Session3Date                   2021-07-31 12:00:00+02:00
+Session3DateUtc                      2021-07-31 10:00:00
+Session4                                      Qualifying
+Session4Date                   2021-07-31 15:00:00+02:00
+Session4DateUtc                      2021-07-31 13:00:00
+Session5                                            Race
+Session5Date                   2021-08-01 15:00:00+02:00
+Session5DateUtc                      2021-08-01 13:00:00
+F1ApiSupport                                        True
+Name: 11, dtype: object
+2021 FORMULA 1 ROLEX MAGYAR NAGYDÍJ 2021 S
+Exception Session type 'S' does not exist for this event
+2021 FORMULA 1 ROLEX MAGYAR NAGYDÍJ 2021 SS
+Exception Session type 'SS' does not exist for this event
+2021 FORMULA 1 ROLEX MAGYAR NAGYDÍJ 2021 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                               12
+Country                                              Belgium
+Location                                   Spa-Francorchamps
+OfficialEventName    FORMULA 1 ROLEX BELGIAN GRAND PRIX 2021
+EventDate                                2021-08-29 00:00:00
+EventName                                 Belgian Grand Prix
+EventFormat                                     conventional
+Session1                                          Practice 1
+Session1Date                       2021-08-27 11:30:00+02:00
+Session1DateUtc                          2021-08-27 09:30:00
+Session2                                          Practice 2
+Session2Date                       2021-08-27 15:00:00+02:00
+Session2DateUtc                          2021-08-27 13:00:00
+Session3                                          Practice 3
+Session3Date                       2021-08-28 12:00:00+02:00
+Session3DateUtc                          2021-08-28 10:00:00
+Session4                                          Qualifying
+Session4Date                       2021-08-28 15:00:00+02:00
+Session4DateUtc                          2021-08-28 13:00:00
+Session5                                                Race
+Session5Date                       2021-08-29 15:00:00+02:00
+Session5DateUtc                          2021-08-29 13:00:00
+F1ApiSupport                                            True
+Name: 12, dtype: object
+2021 FORMULA 1 ROLEX BELGIAN GRAND PRIX 2021 S
+Exception Session type 'S' does not exist for this event
+2021 FORMULA 1 ROLEX BELGIAN GRAND PRIX 2021 SS
+Exception Session type 'SS' does not exist for this event
+2021 FORMULA 1 ROLEX BELGIAN GRAND PRIX 2021 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                13
+Country                                           Netherlands
+Location                                            Zandvoort
+OfficialEventName    FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2021
+EventDate                                 2021-09-05 00:00:00
+EventName                                    Dutch Grand Prix
+EventFormat                                      conventional
+Session1                                           Practice 1
+Session1Date                        2021-09-03 11:30:00+02:00
+Session1DateUtc                           2021-09-03 09:30:00
+Session2                                           Practice 2
+Session2Date                        2021-09-03 15:00:00+02:00
+Session2DateUtc                           2021-09-03 13:00:00
+Session3                                           Practice 3
+Session3Date                        2021-09-04 12:00:00+02:00
+Session3DateUtc                           2021-09-04 10:00:00
+Session4                                           Qualifying
+Session4Date                        2021-09-04 15:00:00+02:00
+Session4DateUtc                           2021-09-04 13:00:00
+Session5                                                 Race
+Session5Date                        2021-09-05 15:00:00+02:00
+Session5DateUtc                           2021-09-05 13:00:00
+F1ApiSupport                                             True
+Name: 13, dtype: object
+2021 FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2021 S
+Exception Session type 'S' does not exist for this event
+2021 FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2021 SS
+Exception Session type 'SS' does not exist for this event
+2021 FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2021 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                    14
+Country                                                     Italy
+Location                                                    Monza
+OfficialEventName    FORMULA 1 HEINEKEN GRAN PREMIO D’ITALIA 2021
+EventDate                                     2021-09-12 00:00:00
+EventName                                      Italian Grand Prix
+EventFormat                                                sprint
+Session1                                               Practice 1
+Session1Date                            2021-09-10 14:30:00+02:00
+Session1DateUtc                               2021-09-10 12:30:00
+Session2                                               Qualifying
+Session2Date                            2021-09-10 18:00:00+02:00
+Session2DateUtc                               2021-09-10 16:00:00
+Session3                                               Practice 2
+Session3Date                            2021-09-11 12:00:00+02:00
+Session3DateUtc                               2021-09-11 10:00:00
+Session4                                                   Sprint
+Session4Date                            2021-09-11 16:30:00+02:00
+Session4DateUtc                               2021-09-11 14:30:00
+Session5                                                     Race
+Session5Date                            2021-09-12 15:00:00+02:00
+Session5DateUtc                               2021-09-12 13:00:00
+F1ApiSupport                                                 True
+Name: 14, dtype: object
+2021 FORMULA 1 HEINEKEN GRAN PREMIO D’ITALIA 2021 SS
+Exception Session type 'SS' does not exist for this event
+RoundNumber                                             15
+Country                                             Russia
+Location                                             Sochi
+OfficialEventName    FORMULA 1 VTB RUSSIAN GRAND PRIX 2021
+EventDate                              2021-09-26 00:00:00
+EventName                               Russian Grand Prix
+EventFormat                                   conventional
+Session1                                        Practice 1
+Session1Date                     2021-09-24 11:30:00+03:00
+Session1DateUtc                        2021-09-24 08:30:00
+Session2                                        Practice 2
+Session2Date                     2021-09-24 15:00:00+03:00
+Session2DateUtc                        2021-09-24 12:00:00
+Session3                                        Practice 3
+Session3Date                     2021-09-25 12:00:00+03:00
+Session3DateUtc                        2021-09-25 09:00:00
+Session4                                        Qualifying
+Session4Date                     2021-09-25 15:00:00+03:00
+Session4DateUtc                        2021-09-25 12:00:00
+Session5                                              Race
+Session5Date                     2021-09-26 15:00:00+03:00
+Session5DateUtc                        2021-09-26 12:00:00
+F1ApiSupport                                          True
+Name: 15, dtype: object
+2021 FORMULA 1 VTB RUSSIAN GRAND PRIX 2021 S
+Exception Session type 'S' does not exist for this event
+2021 FORMULA 1 VTB RUSSIAN GRAND PRIX 2021 SS
+Exception Session type 'SS' does not exist for this event
+2021 FORMULA 1 VTB RUSSIAN GRAND PRIX 2021 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                               16
+Country                                               Turkey
+Location                                            Istanbul
+OfficialEventName    FORMULA 1 ROLEX TURKISH GRAND PRIX 2021
+EventDate                                2021-10-10 00:00:00
+EventName                                 Turkish Grand Prix
+EventFormat                                     conventional
+Session1                                          Practice 1
+Session1Date                       2021-10-08 11:30:00+03:00
+Session1DateUtc                          2021-10-08 08:30:00
+Session2                                          Practice 2
+Session2Date                       2021-10-08 15:00:00+03:00
+Session2DateUtc                          2021-10-08 12:00:00
+Session3                                          Practice 3
+Session3Date                       2021-10-09 12:00:00+03:00
+Session3DateUtc                          2021-10-09 09:00:00
+Session4                                          Qualifying
+Session4Date                       2021-10-09 15:00:00+03:00
+Session4DateUtc                          2021-10-09 12:00:00
+Session5                                                Race
+Session5Date                       2021-10-10 15:00:00+03:00
+Session5DateUtc                          2021-10-10 12:00:00
+F1ApiSupport                                            True
+Name: 16, dtype: object
+2021 FORMULA 1 ROLEX TURKISH GRAND PRIX 2021 S
+Exception Session type 'S' does not exist for this event
+2021 FORMULA 1 ROLEX TURKISH GRAND PRIX 2021 SS
+Exception Session type 'SS' does not exist for this event
+2021 FORMULA 1 ROLEX TURKISH GRAND PRIX 2021 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                      17
+Country                                               United States
+Location                                                     Austin
+OfficialEventName    FORMULA 1 ARAMCO UNITED STATES GRAND PRIX 2021
+EventDate                                       2021-10-24 00:00:00
+EventName                                  United States Grand Prix
+EventFormat                                            conventional
+Session1                                                 Practice 1
+Session1Date                              2021-10-22 11:30:00-05:00
+Session1DateUtc                                 2021-10-22 16:30:00
+Session2                                                 Practice 2
+Session2Date                              2021-10-22 15:00:00-05:00
+Session2DateUtc                                 2021-10-22 20:00:00
+Session3                                                 Practice 3
+Session3Date                              2021-10-23 13:00:00-05:00
+Session3DateUtc                                 2021-10-23 18:00:00
+Session4                                                 Qualifying
+Session4Date                              2021-10-23 16:00:00-05:00
+Session4DateUtc                                 2021-10-23 21:00:00
+Session5                                                       Race
+Session5Date                              2021-10-24 14:00:00-05:00
+Session5DateUtc                                 2021-10-24 19:00:00
+F1ApiSupport                                                   True
+Name: 17, dtype: object
+2021 FORMULA 1 ARAMCO UNITED STATES GRAND PRIX 2021 S
+Exception Session type 'S' does not exist for this event
+2021 FORMULA 1 ARAMCO UNITED STATES GRAND PRIX 2021 SS
+Exception Session type 'SS' does not exist for this event
+2021 FORMULA 1 ARAMCO UNITED STATES GRAND PRIX 2021 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                         18
+Country                                                         Mexico
+Location                                                   Mexico City
+OfficialEventName    FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2021
+EventDate                                          2021-11-07 00:00:00
+EventName                                       Mexico City Grand Prix
+EventFormat                                               conventional
+Session1                                                    Practice 1
+Session1Date                                 2021-11-05 11:30:00-06:00
+Session1DateUtc                                    2021-11-05 17:30:00
+Session2                                                    Practice 2
+Session2Date                                 2021-11-05 15:00:00-06:00
+Session2DateUtc                                    2021-11-05 21:00:00
+Session3                                                    Practice 3
+Session3Date                                 2021-11-06 11:00:00-06:00
+Session3DateUtc                                    2021-11-06 17:00:00
+Session4                                                    Qualifying
+Session4Date                                 2021-11-06 14:00:00-06:00
+Session4DateUtc                                    2021-11-06 20:00:00
+Session5                                                          Race
+Session5Date                                 2021-11-07 13:00:00-06:00
+Session5DateUtc                                    2021-11-07 19:00:00
+F1ApiSupport                                                      True
+Name: 18, dtype: object
+2021 FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2021 S
+Exception Session type 'S' does not exist for this event
+2021 FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2021 SS
+Exception Session type 'SS' does not exist for this event
+2021 FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2021 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                         19
+Country                                                         Brazil
+Location                                                     São Paulo
+OfficialEventName    FORMULA 1 HEINEKEN GRANDE PRÊMIO DE SÃO PAULO ...
+EventDate                                          2021-11-14 00:00:00
+EventName                                         São Paulo Grand Prix
+EventFormat                                                     sprint
+Session1                                                    Practice 1
+Session1Date                                 2021-11-12 12:30:00-03:00
+Session1DateUtc                                    2021-11-12 15:30:00
+Session2                                                    Qualifying
+Session2Date                                 2021-11-12 16:00:00-03:00
+Session2DateUtc                                    2021-11-12 19:00:00
+Session3                                                    Practice 2
+Session3Date                                 2021-11-13 12:00:00-03:00
+Session3DateUtc                                    2021-11-13 15:00:00
+Session4                                                        Sprint
+Session4Date                                 2021-11-13 16:30:00-03:00
+Session4DateUtc                                    2021-11-13 19:30:00
+Session5                                                          Race
+Session5Date                                 2021-11-14 14:00:00-03:00
+Session5DateUtc                                    2021-11-14 17:00:00
+F1ApiSupport                                                      True
+Name: 19, dtype: object
+2021 FORMULA 1 HEINEKEN GRANDE PRÊMIO DE SÃO PAULO 2021 SS
+Exception Session type 'SS' does not exist for this event
+RoundNumber                                               20
+Country                                                Qatar
+Location                                              Lusail
+OfficialEventName    FORMULA 1 OOREDOO QATAR GRAND PRIX 2021
+EventDate                                2021-11-21 00:00:00
+EventName                                   Qatar Grand Prix
+EventFormat                                     conventional
+Session1                                          Practice 1
+Session1Date                       2021-11-19 13:30:00+03:00
+Session1DateUtc                          2021-11-19 10:30:00
+Session2                                          Practice 2
+Session2Date                       2021-11-19 17:00:00+03:00
+Session2DateUtc                          2021-11-19 14:00:00
+Session3                                          Practice 3
+Session3Date                       2021-11-20 14:00:00+03:00
+Session3DateUtc                          2021-11-20 11:00:00
+Session4                                          Qualifying
+Session4Date                       2021-11-20 17:00:00+03:00
+Session4DateUtc                          2021-11-20 14:00:00
+Session5                                                Race
+Session5Date                       2021-11-21 17:00:00+03:00
+Session5DateUtc                          2021-11-21 14:00:00
+F1ApiSupport                                            True
+Name: 20, dtype: object
+2021 FORMULA 1 OOREDOO QATAR GRAND PRIX 2021 S
+Exception Session type 'S' does not exist for this event
+2021 FORMULA 1 OOREDOO QATAR GRAND PRIX 2021 SS
+Exception Session type 'SS' does not exist for this event
+2021 FORMULA 1 OOREDOO QATAR GRAND PRIX 2021 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                   21
+Country                                             Saudi Arabia
+Location                                                  Jeddah
+OfficialEventName    FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2021
+EventDate                                    2021-12-05 00:00:00
+EventName                               Saudi Arabian Grand Prix
+EventFormat                                         conventional
+Session1                                              Practice 1
+Session1Date                           2021-12-03 16:30:00+03:00
+Session1DateUtc                              2021-12-03 13:30:00
+Session2                                              Practice 2
+Session2Date                           2021-12-03 20:00:00+03:00
+Session2DateUtc                              2021-12-03 17:00:00
+Session3                                              Practice 3
+Session3Date                           2021-12-04 17:00:00+03:00
+Session3DateUtc                              2021-12-04 14:00:00
+Session4                                              Qualifying
+Session4Date                           2021-12-04 20:00:00+03:00
+Session4DateUtc                              2021-12-04 17:00:00
+Session5                                                    Race
+Session5Date                           2021-12-05 20:30:00+03:00
+Session5DateUtc                              2021-12-05 17:30:00
+F1ApiSupport                                                True
+Name: 21, dtype: object
+2021 FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2021 S
+Exception Session type 'S' does not exist for this event
+2021 FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2021 SS
+Exception Session type 'SS' does not exist for this event
+2021 FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2021 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                         22
+Country                                                      Abu Dhabi
+Location                                                    Yas Island
+OfficialEventName    FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX ...
+EventDate                                          2021-12-12 00:00:00
+EventName                                         Abu Dhabi Grand Prix
+EventFormat                                               conventional
+Session1                                                    Practice 1
+Session1Date                                 2021-12-10 13:30:00+04:00
+Session1DateUtc                                    2021-12-10 09:30:00
+Session2                                                    Practice 2
+Session2Date                                 2021-12-10 17:00:00+04:00
+Session2DateUtc                                    2021-12-10 13:00:00
+Session3                                                    Practice 3
+Session3Date                                 2021-12-11 14:00:00+04:00
+Session3DateUtc                                    2021-12-11 10:00:00
+Session4                                                    Qualifying
+Session4Date                                 2021-12-11 17:00:00+04:00
+Session4DateUtc                                    2021-12-11 13:00:00
+Session5                                                          Race
+Session5Date                                 2021-12-12 17:00:00+04:00
+Session5DateUtc                                    2021-12-12 13:00:00
+F1ApiSupport                                                      True
+Name: 22, dtype: object
+2021 FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2021 S
+Exception Session type 'S' does not exist for this event
+2021 FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2021 SS
+Exception Session type 'SS' does not exist for this event
+2021 FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2021 SQ
+Exception Session type 'SQ' does not exist for this event
+55 for year 2021

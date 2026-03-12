@@ -1,0 +1,9 @@
+Timestamp,code,source,description
+2017-08-11T13:14:00+00:00,failure,T01,Transformer fan damaged
+2017-10-17T08:38:00+00:00,failure,T06,Gearbox bearings damaged
+2017-08-19T09:47:00+00:00,failure,T06,Oil leakage in Hub
+2017-08-21T14:47:00+00:00,failure,T07,Generator damaged
+2017-06-17T11:35:00+00:00,failure,T07,Oil leakage in Hub
+2017-10-19T10:11:00+00:00,failure,T07,Oil leakage in Hub
+2017-04-26T18:06:00+00:00,failure,T11,Hydraulic group error in the brake circuit
+2017-09-12T15:30:00+00:00,failure,T11,Hydraulic group error in the brake circuit

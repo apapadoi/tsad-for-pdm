@@ -1,0 +1,10 @@
+src/pdm-evaluation/development.ipynb
+src/pdm-evaluation/femto_one_class_svm.ipynb
+src/pdm-evaluation/__pycache__/
+*.md
+*.xml
+src/pdm-evaluation/dataset_transformation/
+.git/
+.vscode/
+.run/
+.idea/

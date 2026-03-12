@@ -1,0 +1,727 @@
+RoundNumber                                                   10
+Country                                                    Spain
+Location                                               Barcelona
+OfficialEventName    FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2024
+EventDate                                    2024-06-23 00:00:00
+EventName                                     Spanish Grand Prix
+EventFormat                                         conventional
+Session1                                              Practice 1
+Session1Date                           2024-06-21 13:30:00+02:00
+Session1DateUtc                              2024-06-21 11:30:00
+Session2                                              Practice 2
+Session2Date                           2024-06-21 17:00:00+02:00
+Session2DateUtc                              2024-06-21 15:00:00
+Session3                                              Practice 3
+Session3Date                           2024-06-22 12:30:00+02:00
+Session3DateUtc                              2024-06-22 10:30:00
+Session4                                              Qualifying
+Session4Date                           2024-06-22 16:00:00+02:00
+Session4DateUtc                              2024-06-22 14:00:00
+Session5                                                    Race
+Session5Date                           2024-06-23 15:00:00+02:00
+Session5DateUtc                              2024-06-23 13:00:00
+F1ApiSupport                                                True
+Name: 10, dtype: object
+2024 FORMULA 1 ARAMCO PRE-SEASON TESTING 2024 S
+Exception Session type 'S' does not exist for this event
+2024 FORMULA 1 ARAMCO PRE-SEASON TESTING 2024 SS
+Exception Session type 'SS' does not exist for this event
+2024 FORMULA 1 ARAMCO PRE-SEASON TESTING 2024 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                   1
+Country                                                 Bahrain
+Location                                                 Sakhir
+OfficialEventName    FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2024
+EventDate                                   2024-03-02 00:00:00
+EventName                                    Bahrain Grand Prix
+EventFormat                                        conventional
+Session1                                             Practice 1
+Session1Date                          2024-02-29 14:30:00+03:00
+Session1DateUtc                             2024-02-29 11:30:00
+Session2                                             Practice 2
+Session2Date                          2024-02-29 18:00:00+03:00
+Session2DateUtc                             2024-02-29 15:00:00
+Session3                                             Practice 3
+Session3Date                          2024-03-01 15:30:00+03:00
+Session3DateUtc                             2024-03-01 12:30:00
+Session4                                             Qualifying
+Session4Date                          2024-03-01 19:00:00+03:00
+Session4DateUtc                             2024-03-01 16:00:00
+Session5                                                   Race
+Session5Date                          2024-03-02 18:00:00+03:00
+Session5DateUtc                             2024-03-02 15:00:00
+F1ApiSupport                                               True
+Name: 1, dtype: object
+2024 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2024 S
+Exception Session type 'S' does not exist for this event
+2024 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2024 SS
+Exception Session type 'SS' does not exist for this event
+2024 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2024 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                    2
+Country                                             Saudi Arabia
+Location                                                  Jeddah
+OfficialEventName    FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2024
+EventDate                                    2024-03-09 00:00:00
+EventName                               Saudi Arabian Grand Prix
+EventFormat                                         conventional
+Session1                                              Practice 1
+Session1Date                           2024-03-07 16:30:00+03:00
+Session1DateUtc                              2024-03-07 13:30:00
+Session2                                              Practice 2
+Session2Date                           2024-03-07 20:10:00+03:00
+Session2DateUtc                              2024-03-07 17:10:00
+Session3                                              Practice 3
+Session3Date                           2024-03-08 16:30:00+03:00
+Session3DateUtc                              2024-03-08 13:30:00
+Session4                                              Qualifying
+Session4Date                           2024-03-08 20:00:00+03:00
+Session4DateUtc                              2024-03-08 17:00:00
+Session5                                                    Race
+Session5Date                           2024-03-09 20:00:00+03:00
+Session5DateUtc                              2024-03-09 17:00:00
+F1ApiSupport                                                True
+Name: 2, dtype: object
+2024 FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2024 S
+Exception Session type 'S' does not exist for this event
+2024 FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2024 SS
+Exception Session type 'SS' does not exist for this event
+2024 FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2024 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                   3
+Country                                               Australia
+Location                                              Melbourne
+OfficialEventName    FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX 2024
+EventDate                                   2024-03-24 00:00:00
+EventName                                 Australian Grand Prix
+EventFormat                                        conventional
+Session1                                             Practice 1
+Session1Date                          2024-03-22 12:30:00+11:00
+Session1DateUtc                             2024-03-22 01:30:00
+Session2                                             Practice 2
+Session2Date                          2024-03-22 16:00:00+11:00
+Session2DateUtc                             2024-03-22 05:00:00
+Session3                                             Practice 3
+Session3Date                          2024-03-23 12:30:00+11:00
+Session3DateUtc                             2024-03-23 01:30:00
+Session4                                             Qualifying
+Session4Date                          2024-03-23 16:00:00+11:00
+Session4DateUtc                             2024-03-23 05:00:00
+Session5                                                   Race
+Session5Date                          2024-03-24 15:00:00+11:00
+Session5DateUtc                             2024-03-24 04:00:00
+F1ApiSupport                                               True
+Name: 3, dtype: object
+2024 FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX 2024 S
+Exception Session type 'S' does not exist for this event
+2024 FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX 2024 SS
+Exception Session type 'SS' does not exist for this event
+2024 FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX 2024 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                       4
+Country                                                       Japan
+Location                                                     Suzuka
+OfficialEventName    FORMULA 1 MSC CRUISES JAPANESE GRAND PRIX 2024
+EventDate                                       2024-04-07 00:00:00
+EventName                                       Japanese Grand Prix
+EventFormat                                            conventional
+Session1                                                 Practice 1
+Session1Date                              2024-04-05 11:30:00+09:00
+Session1DateUtc                                 2024-04-05 02:30:00
+Session2                                                 Practice 2
+Session2Date                              2024-04-05 15:00:00+09:00
+Session2DateUtc                                 2024-04-05 06:00:00
+Session3                                                 Practice 3
+Session3Date                              2024-04-06 11:30:00+09:00
+Session3DateUtc                                 2024-04-06 02:30:00
+Session4                                                 Qualifying
+Session4Date                              2024-04-06 15:00:00+09:00
+Session4DateUtc                                 2024-04-06 06:00:00
+Session5                                                       Race
+Session5Date                              2024-04-07 14:00:00+09:00
+Session5DateUtc                                 2024-04-07 05:00:00
+F1ApiSupport                                                   True
+Name: 4, dtype: object
+2024 FORMULA 1 MSC CRUISES JAPANESE GRAND PRIX 2024 S
+Exception Session type 'S' does not exist for this event
+2024 FORMULA 1 MSC CRUISES JAPANESE GRAND PRIX 2024 SS
+Exception Session type 'SS' does not exist for this event
+2024 FORMULA 1 MSC CRUISES JAPANESE GRAND PRIX 2024 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                 5
+Country                                                 China
+Location                                             Shanghai
+OfficialEventName    FORMULA 1 LENOVO CHINESE GRAND PRIX 2024
+EventDate                                 2024-04-21 00:00:00
+EventName                                  Chinese Grand Prix
+EventFormat                                 sprint_qualifying
+Session1                                           Practice 1
+Session1Date                        2024-04-19 11:30:00+08:00
+Session1DateUtc                           2024-04-19 03:30:00
+Session2                                    Sprint Qualifying
+Session2Date                        2024-04-19 15:30:00+08:00
+Session2DateUtc                           2024-04-19 07:30:00
+Session3                                               Sprint
+Session3Date                        2024-04-20 11:00:00+08:00
+Session3DateUtc                           2024-04-20 03:00:00
+Session4                                           Qualifying
+Session4Date                        2024-04-20 15:00:00+08:00
+Session4DateUtc                           2024-04-20 07:00:00
+Session5                                                 Race
+Session5Date                        2024-04-21 15:00:00+08:00
+Session5DateUtc                           2024-04-21 07:00:00
+F1ApiSupport                                             True
+Name: 5, dtype: object
+2024 FORMULA 1 LENOVO CHINESE GRAND PRIX 2024 SS
+Exception Session type 'SS' does not exist for this event
+RoundNumber                                                   6
+Country                                           United States
+Location                                                  Miami
+OfficialEventName    FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2024
+EventDate                                   2024-05-05 00:00:00
+EventName                                      Miami Grand Prix
+EventFormat                                   sprint_qualifying
+Session1                                             Practice 1
+Session1Date                          2024-05-03 12:30:00-04:00
+Session1DateUtc                             2024-05-03 16:30:00
+Session2                                      Sprint Qualifying
+Session2Date                          2024-05-03 16:30:00-04:00
+Session2DateUtc                             2024-05-03 20:30:00
+Session3                                                 Sprint
+Session3Date                          2024-05-04 12:00:00-04:00
+Session3DateUtc                             2024-05-04 16:00:00
+Session4                                             Qualifying
+Session4Date                          2024-05-04 16:00:00-04:00
+Session4DateUtc                             2024-05-04 20:00:00
+Session5                                                   Race
+Session5Date                          2024-05-05 16:00:00-04:00
+Session5DateUtc                             2024-05-05 20:00:00
+F1ApiSupport                                               True
+Name: 6, dtype: object
+2024 FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2024 SS
+Exception Session type 'SS' does not exist for this event
+RoundNumber                                                          7
+Country                                                          Italy
+Location                                                         Imola
+OfficialEventName    FORMULA 1 MSC CRUISES GRAN PREMIO DEL MADE IN ...
+EventDate                                          2024-05-19 00:00:00
+EventName                                    Emilia Romagna Grand Prix
+EventFormat                                               conventional
+Session1                                                    Practice 1
+Session1Date                                 2024-05-17 13:30:00+02:00
+Session1DateUtc                                    2024-05-17 11:30:00
+Session2                                                    Practice 2
+Session2Date                                 2024-05-17 17:00:00+02:00
+Session2DateUtc                                    2024-05-17 15:00:00
+Session3                                                    Practice 3
+Session3Date                                 2024-05-18 12:30:00+02:00
+Session3DateUtc                                    2024-05-18 10:30:00
+Session4                                                    Qualifying
+Session4Date                                 2024-05-18 16:00:00+02:00
+Session4DateUtc                                    2024-05-18 14:00:00
+Session5                                                          Race
+Session5Date                                 2024-05-19 15:00:00+02:00
+Session5DateUtc                                    2024-05-19 13:00:00
+F1ApiSupport                                                      True
+Name: 7, dtype: object
+2024 FORMULA 1 MSC CRUISES GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA-ROMAGNA 2024 S
+Exception Session type 'S' does not exist for this event
+2024 FORMULA 1 MSC CRUISES GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA-ROMAGNA 2024 SS
+Exception Session type 'SS' does not exist for this event
+2024 FORMULA 1 MSC CRUISES GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA-ROMAGNA 2024 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                            8
+Country                                           Monaco
+Location                                          Monaco
+OfficialEventName    FORMULA 1 GRAND PRIX DE MONACO 2024
+EventDate                            2024-05-26 00:00:00
+EventName                              Monaco Grand Prix
+EventFormat                                 conventional
+Session1                                      Practice 1
+Session1Date                   2024-05-24 13:30:00+02:00
+Session1DateUtc                      2024-05-24 11:30:00
+Session2                                      Practice 2
+Session2Date                   2024-05-24 17:00:00+02:00
+Session2DateUtc                      2024-05-24 15:00:00
+Session3                                      Practice 3
+Session3Date                   2024-05-25 12:30:00+02:00
+Session3DateUtc                      2024-05-25 10:30:00
+Session4                                      Qualifying
+Session4Date                   2024-05-25 16:00:00+02:00
+Session4DateUtc                      2024-05-25 14:00:00
+Session5                                            Race
+Session5Date                   2024-05-26 15:00:00+02:00
+Session5DateUtc                      2024-05-26 13:00:00
+F1ApiSupport                                        True
+Name: 8, dtype: object
+2024 FORMULA 1 GRAND PRIX DE MONACO 2024 S
+Exception Session type 'S' does not exist for this event
+2024 FORMULA 1 GRAND PRIX DE MONACO 2024 SS
+Exception Session type 'SS' does not exist for this event
+2024 FORMULA 1 GRAND PRIX DE MONACO 2024 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                9
+Country                                               Canada
+Location                                            Montréal
+OfficialEventName    FORMULA 1 AWS GRAND PRIX DU CANADA 2024
+EventDate                                2024-06-09 00:00:00
+EventName                                Canadian Grand Prix
+EventFormat                                     conventional
+Session1                                          Practice 1
+Session1Date                       2024-06-07 13:30:00-04:00
+Session1DateUtc                          2024-06-07 17:30:00
+Session2                                          Practice 2
+Session2Date                       2024-06-07 17:00:00-04:00
+Session2DateUtc                          2024-06-07 21:00:00
+Session3                                          Practice 3
+Session3Date                       2024-06-08 12:30:00-04:00
+Session3DateUtc                          2024-06-08 16:30:00
+Session4                                          Qualifying
+Session4Date                       2024-06-08 16:00:00-04:00
+Session4DateUtc                          2024-06-08 20:00:00
+Session5                                                Race
+Session5Date                       2024-06-09 14:00:00-04:00
+Session5DateUtc                          2024-06-09 18:00:00
+F1ApiSupport                                            True
+Name: 9, dtype: object
+2024 FORMULA 1 AWS GRAND PRIX DU CANADA 2024 S
+Exception Session type 'S' does not exist for this event
+2024 FORMULA 1 AWS GRAND PRIX DU CANADA 2024 SS
+Exception Session type 'SS' does not exist for this event
+2024 FORMULA 1 AWS GRAND PRIX DU CANADA 2024 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                   10
+Country                                                    Spain
+Location                                               Barcelona
+OfficialEventName    FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2024
+EventDate                                    2024-06-23 00:00:00
+EventName                                     Spanish Grand Prix
+EventFormat                                         conventional
+Session1                                              Practice 1
+Session1Date                           2024-06-21 13:30:00+02:00
+Session1DateUtc                              2024-06-21 11:30:00
+Session2                                              Practice 2
+Session2Date                           2024-06-21 17:00:00+02:00
+Session2DateUtc                              2024-06-21 15:00:00
+Session3                                              Practice 3
+Session3Date                           2024-06-22 12:30:00+02:00
+Session3DateUtc                              2024-06-22 10:30:00
+Session4                                              Qualifying
+Session4Date                           2024-06-22 16:00:00+02:00
+Session4DateUtc                              2024-06-22 14:00:00
+Session5                                                    Race
+Session5Date                           2024-06-23 15:00:00+02:00
+Session5DateUtc                              2024-06-23 13:00:00
+F1ApiSupport                                                True
+Name: 10, dtype: object
+2024 FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2024 S
+Exception Session type 'S' does not exist for this event
+2024 FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2024 SS
+Exception Session type 'SS' does not exist for this event
+2024 FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2024 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                        11
+Country                                                       Austria
+Location                                                    Spielberg
+OfficialEventName    FORMULA 1 QATAR AIRWAYS AUSTRIAN GRAND PRIX 2024
+EventDate                                         2024-06-30 00:00:00
+EventName                                         Austrian Grand Prix
+EventFormat                                         sprint_qualifying
+Session1                                                   Practice 1
+Session1Date                                2024-06-28 12:30:00+02:00
+Session1DateUtc                                   2024-06-28 10:30:00
+Session2                                            Sprint Qualifying
+Session2Date                                2024-06-28 16:30:00+02:00
+Session2DateUtc                                   2024-06-28 14:30:00
+Session3                                                       Sprint
+Session3Date                                2024-06-29 12:00:00+02:00
+Session3DateUtc                                   2024-06-29 10:00:00
+Session4                                                   Qualifying
+Session4Date                                2024-06-29 16:00:00+02:00
+Session4DateUtc                                   2024-06-29 14:00:00
+Session5                                                         Race
+Session5Date                                2024-06-30 15:00:00+02:00
+Session5DateUtc                                   2024-06-30 13:00:00
+F1ApiSupport                                                     True
+Name: 11, dtype: object
+2024 FORMULA 1 QATAR AIRWAYS AUSTRIAN GRAND PRIX 2024 SS
+Exception Session type 'SS' does not exist for this event
+RoundNumber                                                       12
+Country                                               United Kingdom
+Location                                                 Silverstone
+OfficialEventName    FORMULA 1 QATAR AIRWAYS BRITISH GRAND PRIX 2024
+EventDate                                        2024-07-07 00:00:00
+EventName                                         British Grand Prix
+EventFormat                                             conventional
+Session1                                                  Practice 1
+Session1Date                               2024-07-05 12:30:00+01:00
+Session1DateUtc                                  2024-07-05 11:30:00
+Session2                                                  Practice 2
+Session2Date                               2024-07-05 16:00:00+01:00
+Session2DateUtc                                  2024-07-05 15:00:00
+Session3                                                  Practice 3
+Session3Date                               2024-07-06 11:30:00+01:00
+Session3DateUtc                                  2024-07-06 10:30:00
+Session4                                                  Qualifying
+Session4Date                               2024-07-06 15:00:00+01:00
+Session4DateUtc                                  2024-07-06 14:00:00
+Session5                                                        Race
+Session5Date                               2024-07-07 15:00:00+01:00
+Session5DateUtc                                  2024-07-07 14:00:00
+F1ApiSupport                                                    True
+Name: 12, dtype: object
+2024 FORMULA 1 QATAR AIRWAYS BRITISH GRAND PRIX 2024 S
+Exception Session type 'S' does not exist for this event
+2024 FORMULA 1 QATAR AIRWAYS BRITISH GRAND PRIX 2024 SS
+Exception Session type 'SS' does not exist for this event
+2024 FORMULA 1 QATAR AIRWAYS BRITISH GRAND PRIX 2024 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                           13
+Country                                          Hungary
+Location                                        Budapest
+OfficialEventName    FORMULA 1 HUNGARIAN GRAND PRIX 2024
+EventDate                            2024-07-21 00:00:00
+EventName                           Hungarian Grand Prix
+EventFormat                                 conventional
+Session1                                      Practice 1
+Session1Date                   2024-07-19 13:30:00+02:00
+Session1DateUtc                      2024-07-19 11:30:00
+Session2                                      Practice 2
+Session2Date                   2024-07-19 17:00:00+02:00
+Session2DateUtc                      2024-07-19 15:00:00
+Session3                                      Practice 3
+Session3Date                   2024-07-20 12:30:00+02:00
+Session3DateUtc                      2024-07-20 10:30:00
+Session4                                      Qualifying
+Session4Date                   2024-07-20 16:00:00+02:00
+Session4DateUtc                      2024-07-20 14:00:00
+Session5                                            Race
+Session5Date                   2024-07-21 15:00:00+02:00
+Session5DateUtc                      2024-07-21 13:00:00
+F1ApiSupport                                        True
+Name: 13, dtype: object
+2024 FORMULA 1 HUNGARIAN GRAND PRIX 2024 S
+Exception Session type 'S' does not exist for this event
+2024 FORMULA 1 HUNGARIAN GRAND PRIX 2024 SS
+Exception Session type 'SS' does not exist for this event
+2024 FORMULA 1 HUNGARIAN GRAND PRIX 2024 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                               14
+Country                                              Belgium
+Location                                   Spa-Francorchamps
+OfficialEventName    FORMULA 1 ROLEX BELGIAN GRAND PRIX 2024
+EventDate                                2024-07-28 00:00:00
+EventName                                 Belgian Grand Prix
+EventFormat                                     conventional
+Session1                                          Practice 1
+Session1Date                       2024-07-26 13:30:00+02:00
+Session1DateUtc                          2024-07-26 11:30:00
+Session2                                          Practice 2
+Session2Date                       2024-07-26 17:00:00+02:00
+Session2DateUtc                          2024-07-26 15:00:00
+Session3                                          Practice 3
+Session3Date                       2024-07-27 12:30:00+02:00
+Session3DateUtc                          2024-07-27 10:30:00
+Session4                                          Qualifying
+Session4Date                       2024-07-27 16:00:00+02:00
+Session4DateUtc                          2024-07-27 14:00:00
+Session5                                                Race
+Session5Date                       2024-07-28 15:00:00+02:00
+Session5DateUtc                          2024-07-28 13:00:00
+F1ApiSupport                                            True
+Name: 14, dtype: object
+2024 FORMULA 1 ROLEX BELGIAN GRAND PRIX 2024 S
+Exception Session type 'S' does not exist for this event
+2024 FORMULA 1 ROLEX BELGIAN GRAND PRIX 2024 SS
+Exception Session type 'SS' does not exist for this event
+2024 FORMULA 1 ROLEX BELGIAN GRAND PRIX 2024 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                15
+Country                                           Netherlands
+Location                                            Zandvoort
+OfficialEventName    FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2024
+EventDate                                 2024-08-25 00:00:00
+EventName                                    Dutch Grand Prix
+EventFormat                                      conventional
+Session1                                           Practice 1
+Session1Date                        2024-08-23 12:30:00+02:00
+Session1DateUtc                           2024-08-23 10:30:00
+Session2                                           Practice 2
+Session2Date                        2024-08-23 16:00:00+02:00
+Session2DateUtc                           2024-08-23 14:00:00
+Session3                                           Practice 3
+Session3Date                        2024-08-24 11:30:00+02:00
+Session3DateUtc                           2024-08-24 09:30:00
+Session4                                           Qualifying
+Session4Date                        2024-08-24 15:00:00+02:00
+Session4DateUtc                           2024-08-24 13:00:00
+Session5                                                 Race
+Session5Date                        2024-08-25 15:00:00+02:00
+Session5DateUtc                           2024-08-25 13:00:00
+F1ApiSupport                                             True
+Name: 15, dtype: object
+2024 FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2024 S
+Exception Session type 'S' does not exist for this event
+2024 FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2024 SS
+Exception Session type 'SS' does not exist for this event
+2024 FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2024 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                   16
+Country                                                    Italy
+Location                                                   Monza
+OfficialEventName    FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024
+EventDate                                    2024-09-01 00:00:00
+EventName                                     Italian Grand Prix
+EventFormat                                         conventional
+Session1                                              Practice 1
+Session1Date                           2024-08-30 13:30:00+02:00
+Session1DateUtc                              2024-08-30 11:30:00
+Session2                                              Practice 2
+Session2Date                           2024-08-30 17:00:00+02:00
+Session2DateUtc                              2024-08-30 15:00:00
+Session3                                              Practice 3
+Session3Date                           2024-08-31 12:30:00+02:00
+Session3DateUtc                              2024-08-31 10:30:00
+Session4                                              Qualifying
+Session4Date                           2024-08-31 16:00:00+02:00
+Session4DateUtc                              2024-08-31 14:00:00
+Session5                                                    Race
+Session5Date                           2024-09-01 15:00:00+02:00
+Session5DateUtc                              2024-09-01 13:00:00
+F1ApiSupport                                                True
+Name: 16, dtype: object
+2024 FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024 S
+Exception Session type 'S' does not exist for this event
+2024 FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024 SS
+Exception Session type 'SS' does not exist for this event
+2024 FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                         17
+Country                                                     Azerbaijan
+Location                                                          Baku
+OfficialEventName    FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX ...
+EventDate                                          2024-09-15 00:00:00
+EventName                                        Azerbaijan Grand Prix
+EventFormat                                               conventional
+Session1                                                    Practice 1
+Session1Date                                 2024-09-13 13:30:00+04:00
+Session1DateUtc                                    2024-09-13 09:30:00
+Session2                                                    Practice 2
+Session2Date                                 2024-09-13 17:00:00+04:00
+Session2DateUtc                                    2024-09-13 13:00:00
+Session3                                                    Practice 3
+Session3Date                                 2024-09-14 12:30:00+04:00
+Session3DateUtc                                    2024-09-14 08:30:00
+Session4                                                    Qualifying
+Session4Date                                 2024-09-14 16:00:00+04:00
+Session4DateUtc                                    2024-09-14 12:00:00
+Session5                                                          Race
+Session5Date                                 2024-09-15 15:00:00+04:00
+Session5DateUtc                                    2024-09-15 11:00:00
+F1ApiSupport                                                      True
+Name: 17, dtype: object
+2024 FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2024 S
+Exception Session type 'S' does not exist for this event
+2024 FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2024 SS
+Exception Session type 'SS' does not exist for this event
+2024 FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2024 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                         18
+Country                                                      Singapore
+Location                                                    Marina Bay
+OfficialEventName    FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND P...
+EventDate                                          2024-09-22 00:00:00
+EventName                                         Singapore Grand Prix
+EventFormat                                               conventional
+Session1                                                    Practice 1
+Session1Date                                 2024-09-20 17:30:00+08:00
+Session1DateUtc                                    2024-09-20 09:30:00
+Session2                                                    Practice 2
+Session2Date                                 2024-09-20 21:00:00+08:00
+Session2DateUtc                                    2024-09-20 13:00:00
+Session3                                                    Practice 3
+Session3Date                                 2024-09-21 17:30:00+08:00
+Session3DateUtc                                    2024-09-21 09:30:00
+Session4                                                    Qualifying
+Session4Date                                 2024-09-21 21:00:00+08:00
+Session4DateUtc                                    2024-09-21 13:00:00
+Session5                                                          Race
+Session5Date                                 2024-09-22 20:00:00+08:00
+Session5DateUtc                                    2024-09-22 12:00:00
+F1ApiSupport                                                      True
+Name: 18, dtype: object
+2024 FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2024 S
+Exception Session type 'S' does not exist for this event
+2024 FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2024 SS
+Exception Session type 'SS' does not exist for this event
+2024 FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2024 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                       19
+Country                                                United States
+Location                                                      Austin
+OfficialEventName    FORMULA 1 PIRELLI UNITED STATES GRAND PRIX 2024
+EventDate                                        2024-10-20 00:00:00
+EventName                                   United States Grand Prix
+EventFormat                                        sprint_qualifying
+Session1                                                  Practice 1
+Session1Date                               2024-10-18 12:30:00-05:00
+Session1DateUtc                                  2024-10-18 17:30:00
+Session2                                           Sprint Qualifying
+Session2Date                               2024-10-18 16:30:00-05:00
+Session2DateUtc                                  2024-10-18 21:30:00
+Session3                                                      Sprint
+Session3Date                               2024-10-19 13:00:00-05:00
+Session3DateUtc                                  2024-10-19 18:00:00
+Session4                                                  Qualifying
+Session4Date                               2024-10-19 17:00:00-05:00
+Session4DateUtc                                  2024-10-19 22:00:00
+Session5                                                        Race
+Session5Date                               2024-10-20 14:00:00-05:00
+Session5DateUtc                                  2024-10-20 19:00:00
+F1ApiSupport                                                    True
+Name: 19, dtype: object
+2024 FORMULA 1 PIRELLI UNITED STATES GRAND PRIX 2024 SS
+Exception Session type 'SS' does not exist for this event
+RoundNumber                                                         20
+Country                                                         Mexico
+Location                                                   Mexico City
+OfficialEventName    FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2024
+EventDate                                          2024-10-27 00:00:00
+EventName                                       Mexico City Grand Prix
+EventFormat                                               conventional
+Session1                                                    Practice 1
+Session1Date                                 2024-10-25 12:30:00-06:00
+Session1DateUtc                                    2024-10-25 18:30:00
+Session2                                                    Practice 2
+Session2Date                                 2024-10-25 16:00:00-06:00
+Session2DateUtc                                    2024-10-25 22:00:00
+Session3                                                    Practice 3
+Session3Date                                 2024-10-26 11:30:00-06:00
+Session3DateUtc                                    2024-10-26 17:30:00
+Session4                                                    Qualifying
+Session4Date                                 2024-10-26 15:00:00-06:00
+Session4DateUtc                                    2024-10-26 21:00:00
+Session5                                                          Race
+Session5Date                                 2024-10-27 14:00:00-06:00
+Session5DateUtc                                    2024-10-27 20:00:00
+F1ApiSupport                                                      True
+Name: 20, dtype: object
+2024 FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2024 S
+Exception Session type 'S' does not exist for this event
+2024 FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2024 SS
+Exception Session type 'SS' does not exist for this event
+2024 FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2024 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                        21
+Country                                                        Brazil
+Location                                                    São Paulo
+OfficialEventName    FORMULA 1 LENOVO GRANDE PRÊMIO DE SÃO PAULO 2024
+EventDate                                         2024-11-03 00:00:00
+EventName                                        São Paulo Grand Prix
+EventFormat                                         sprint_qualifying
+Session1                                                   Practice 1
+Session1Date                                2024-11-01 11:30:00-03:00
+Session1DateUtc                                   2024-11-01 14:30:00
+Session2                                            Sprint Qualifying
+Session2Date                                2024-11-01 15:30:00-03:00
+Session2DateUtc                                   2024-11-01 18:30:00
+Session3                                                       Sprint
+Session3Date                                2024-11-02 11:00:00-03:00
+Session3DateUtc                                   2024-11-02 14:00:00
+Session4                                                   Qualifying
+Session4Date                                2024-11-03 07:30:00-03:00
+Session4DateUtc                                   2024-11-03 10:30:00
+Session5                                                         Race
+Session5Date                                2024-11-03 12:30:00-03:00
+Session5DateUtc                                   2024-11-03 15:30:00
+F1ApiSupport                                                     True
+Name: 21, dtype: object
+2024 FORMULA 1 LENOVO GRANDE PRÊMIO DE SÃO PAULO 2024 SS
+Exception Session type 'SS' does not exist for this event
+RoundNumber                                                         22
+Country                                                  United States
+Location                                                     Las Vegas
+OfficialEventName    FORMULA 1 HEINEKEN SILVER LAS VEGAS GRAND PRIX...
+EventDate                                          2024-11-23 00:00:00
+EventName                                         Las Vegas Grand Prix
+EventFormat                                               conventional
+Session1                                                    Practice 1
+Session1Date                                 2024-11-21 18:30:00-08:00
+Session1DateUtc                                    2024-11-22 02:30:00
+Session2                                                    Practice 2
+Session2Date                                 2024-11-21 22:00:00-08:00
+Session2DateUtc                                    2024-11-22 06:00:00
+Session3                                                    Practice 3
+Session3Date                                 2024-11-22 18:30:00-08:00
+Session3DateUtc                                    2024-11-23 02:30:00
+Session4                                                    Qualifying
+Session4Date                                 2024-11-22 22:00:00-08:00
+Session4DateUtc                                    2024-11-23 06:00:00
+Session5                                                          Race
+Session5Date                                 2024-11-23 22:00:00-08:00
+Session5DateUtc                                    2024-11-24 06:00:00
+F1ApiSupport                                                      True
+Name: 22, dtype: object
+2024 FORMULA 1 HEINEKEN SILVER LAS VEGAS GRAND PRIX 2024 S
+Exception Session type 'S' does not exist for this event
+2024 FORMULA 1 HEINEKEN SILVER LAS VEGAS GRAND PRIX 2024 SS
+Exception Session type 'SS' does not exist for this event
+2024 FORMULA 1 HEINEKEN SILVER LAS VEGAS GRAND PRIX 2024 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                     23
+Country                                                      Qatar
+Location                                                    Lusail
+OfficialEventName    FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024
+EventDate                                      2024-12-01 00:00:00
+EventName                                         Qatar Grand Prix
+EventFormat                                      sprint_qualifying
+Session1                                                Practice 1
+Session1Date                             2024-11-29 16:30:00+03:00
+Session1DateUtc                                2024-11-29 13:30:00
+Session2                                         Sprint Qualifying
+Session2Date                             2024-11-29 20:30:00+03:00
+Session2DateUtc                                2024-11-29 17:30:00
+Session3                                                    Sprint
+Session3Date                             2024-11-30 17:00:00+03:00
+Session3DateUtc                                2024-11-30 14:00:00
+Session4                                                Qualifying
+Session4Date                             2024-11-30 21:00:00+03:00
+Session4DateUtc                                2024-11-30 18:00:00
+Session5                                                      Race
+Session5Date                             2024-12-01 19:00:00+03:00
+Session5DateUtc                                2024-12-01 16:00:00
+F1ApiSupport                                                  True
+Name: 23, dtype: object
+2024 FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024 SS
+Exception Session type 'SS' does not exist for this event
+RoundNumber                                                         24
+Country                                           United Arab Emirates
+Location                                                    Yas Island
+OfficialEventName    FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX ...
+EventDate                                          2024-12-08 00:00:00
+EventName                                         Abu Dhabi Grand Prix
+EventFormat                                               conventional
+Session1                                                    Practice 1
+Session1Date                                 2024-12-06 13:30:00+04:00
+Session1DateUtc                                    2024-12-06 09:30:00
+Session2                                                    Practice 2
+Session2Date                                 2024-12-06 17:00:00+04:00
+Session2DateUtc                                    2024-12-06 13:00:00
+Session3                                                    Practice 3
+Session3Date                                 2024-12-07 14:30:00+04:00
+Session3DateUtc                                    2024-12-07 10:30:00
+Session4                                                    Qualifying
+Session4Date                                 2024-12-07 18:00:00+04:00
+Session4DateUtc                                    2024-12-07 14:00:00
+Session5                                                          Race
+Session5Date                                 2024-12-08 17:00:00+04:00
+Session5DateUtc                                    2024-12-08 13:00:00
+F1ApiSupport                                                      True
+Name: 24, dtype: object
+2024 FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2024 S
+Exception Session type 'S' does not exist for this event
+2024 FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2024 SS
+Exception Session type 'SS' does not exist for this event
+2024 FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2024 SQ
+Exception Session type 'SQ' does not exist for this event
+46 for year 2024

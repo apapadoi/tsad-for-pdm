@@ -1,0 +1,8 @@
+*.csv
+episodes_rtf.pkl
+
+*.pyc
+*.pyo
+__pycache__/
+
+!EDP/failures.csv

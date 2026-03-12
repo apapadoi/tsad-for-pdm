@@ -1,0 +1,571 @@
+RoundNumber                                                          1
+Country                                                        Austria
+Location                                                     Spielberg
+OfficialEventName    FORMULA 1 ROLEX GROSSER PREIS VON ÖSTERREICH 2020
+EventDate                                          2020-07-05 00:00:00
+EventName                                          Austrian Grand Prix
+EventFormat                                               conventional
+Session1                                                    Practice 1
+Session1Date                                 2020-07-03 11:00:00+02:00
+Session1DateUtc                                    2020-07-03 09:00:00
+Session2                                                    Practice 2
+Session2Date                                 2020-07-03 15:00:00+02:00
+Session2DateUtc                                    2020-07-03 13:00:00
+Session3                                                    Practice 3
+Session3Date                                 2020-07-04 12:00:00+02:00
+Session3DateUtc                                    2020-07-04 10:00:00
+Session4                                                    Qualifying
+Session4Date                                 2020-07-04 15:00:00+02:00
+Session4DateUtc                                    2020-07-04 13:00:00
+Session5                                                          Race
+Session5Date                                 2020-07-05 15:10:00+02:00
+Session5DateUtc                                    2020-07-05 13:10:00
+F1ApiSupport                                                      True
+Name: 2, dtype: object
+2020 FORMULA 1 PRE-SEASON TESTING 2020 S
+Exception Session type 'S' does not exist for this event
+2020 FORMULA 1 PRE-SEASON TESTING 2020 SS
+Exception Session type 'SS' does not exist for this event
+2020 FORMULA 1 PRE-SEASON TESTING 2020 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                          1
+Country                                                        Austria
+Location                                                     Spielberg
+OfficialEventName    FORMULA 1 ROLEX GROSSER PREIS VON ÖSTERREICH 2020
+EventDate                                          2020-07-05 00:00:00
+EventName                                          Austrian Grand Prix
+EventFormat                                               conventional
+Session1                                                    Practice 1
+Session1Date                                 2020-07-03 11:00:00+02:00
+Session1DateUtc                                    2020-07-03 09:00:00
+Session2                                                    Practice 2
+Session2Date                                 2020-07-03 15:00:00+02:00
+Session2DateUtc                                    2020-07-03 13:00:00
+Session3                                                    Practice 3
+Session3Date                                 2020-07-04 12:00:00+02:00
+Session3DateUtc                                    2020-07-04 10:00:00
+Session4                                                    Qualifying
+Session4Date                                 2020-07-04 15:00:00+02:00
+Session4DateUtc                                    2020-07-04 13:00:00
+Session5                                                          Race
+Session5Date                                 2020-07-05 15:10:00+02:00
+Session5DateUtc                                    2020-07-05 13:10:00
+F1ApiSupport                                                      True
+Name: 2, dtype: object
+2020 FORMULA 1 PRE-SEASON TESTING 2020 S
+Exception Session type 'S' does not exist for this event
+2020 FORMULA 1 PRE-SEASON TESTING 2020 SS
+Exception Session type 'SS' does not exist for this event
+2020 FORMULA 1 PRE-SEASON TESTING 2020 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                          1
+Country                                                        Austria
+Location                                                     Spielberg
+OfficialEventName    FORMULA 1 ROLEX GROSSER PREIS VON ÖSTERREICH 2020
+EventDate                                          2020-07-05 00:00:00
+EventName                                          Austrian Grand Prix
+EventFormat                                               conventional
+Session1                                                    Practice 1
+Session1Date                                 2020-07-03 11:00:00+02:00
+Session1DateUtc                                    2020-07-03 09:00:00
+Session2                                                    Practice 2
+Session2Date                                 2020-07-03 15:00:00+02:00
+Session2DateUtc                                    2020-07-03 13:00:00
+Session3                                                    Practice 3
+Session3Date                                 2020-07-04 12:00:00+02:00
+Session3DateUtc                                    2020-07-04 10:00:00
+Session4                                                    Qualifying
+Session4Date                                 2020-07-04 15:00:00+02:00
+Session4DateUtc                                    2020-07-04 13:00:00
+Session5                                                          Race
+Session5Date                                 2020-07-05 15:10:00+02:00
+Session5DateUtc                                    2020-07-05 13:10:00
+F1ApiSupport                                                      True
+Name: 2, dtype: object
+2020 FORMULA 1 ROLEX GROSSER PREIS VON ÖSTERREICH 2020 S
+Exception Session type 'S' does not exist for this event
+2020 FORMULA 1 ROLEX GROSSER PREIS VON ÖSTERREICH 2020 SS
+Exception Session type 'SS' does not exist for this event
+2020 FORMULA 1 ROLEX GROSSER PREIS VON ÖSTERREICH 2020 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                          2
+Country                                                        Austria
+Location                                                     Spielberg
+OfficialEventName    FORMULA 1 PIRELLI GROSSER PREIS DER STEIERMARK...
+EventDate                                          2020-07-12 00:00:00
+EventName                                           Styrian Grand Prix
+EventFormat                                               conventional
+Session1                                                    Practice 1
+Session1Date                                 2020-07-10 11:00:00+02:00
+Session1DateUtc                                    2020-07-10 09:00:00
+Session2                                                    Practice 2
+Session2Date                                 2020-07-10 15:00:00+02:00
+Session2DateUtc                                    2020-07-10 13:00:00
+Session3                                                    Practice 3
+Session3Date                                 2020-07-11 12:00:00+02:00
+Session3DateUtc                                    2020-07-11 10:00:00
+Session4                                                    Qualifying
+Session4Date                                 2020-07-11 15:00:00+02:00
+Session4DateUtc                                    2020-07-11 13:00:00
+Session5                                                          Race
+Session5Date                                 2020-07-12 15:10:00+02:00
+Session5DateUtc                                    2020-07-12 13:10:00
+F1ApiSupport                                                      True
+Name: 3, dtype: object
+2020 FORMULA 1 PIRELLI GROSSER PREIS DER STEIERMARK 2020 S
+Exception Session type 'S' does not exist for this event
+2020 FORMULA 1 PIRELLI GROSSER PREIS DER STEIERMARK 2020 SS
+Exception Session type 'SS' does not exist for this event
+2020 FORMULA 1 PIRELLI GROSSER PREIS DER STEIERMARK 2020 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                             3
+Country                                           Hungary
+Location                                         Budapest
+OfficialEventName    FORMULA 1 ARAMCO MAGYAR NAGYDÍJ 2020
+EventDate                             2020-07-19 00:00:00
+EventName                            Hungarian Grand Prix
+EventFormat                                  conventional
+Session1                                       Practice 1
+Session1Date                    2020-07-17 11:00:00+02:00
+Session1DateUtc                       2020-07-17 09:00:00
+Session2                                       Practice 2
+Session2Date                    2020-07-17 15:00:00+02:00
+Session2DateUtc                       2020-07-17 13:00:00
+Session3                                       Practice 3
+Session3Date                    2020-07-18 12:00:00+02:00
+Session3DateUtc                       2020-07-18 10:00:00
+Session4                                       Qualifying
+Session4Date                    2020-07-18 15:00:00+02:00
+Session4DateUtc                       2020-07-18 13:00:00
+Session5                                             Race
+Session5Date                    2020-07-19 15:10:00+02:00
+Session5DateUtc                       2020-07-19 13:10:00
+F1ApiSupport                                         True
+Name: 4, dtype: object
+2020 FORMULA 1 ARAMCO MAGYAR NAGYDÍJ 2020 S
+Exception Session type 'S' does not exist for this event
+2020 FORMULA 1 ARAMCO MAGYAR NAGYDÍJ 2020 SS
+Exception Session type 'SS' does not exist for this event
+2020 FORMULA 1 ARAMCO MAGYAR NAGYDÍJ 2020 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                  4
+Country                                          Great Britain
+Location                                           Silverstone
+OfficialEventName    FORMULA 1 PIRELLI BRITISH GRAND PRIX 2020
+EventDate                                  2020-08-02 00:00:00
+EventName                                   British Grand Prix
+EventFormat                                       conventional
+Session1                                            Practice 1
+Session1Date                         2020-07-31 11:00:00+01:00
+Session1DateUtc                            2020-07-31 10:00:00
+Session2                                            Practice 2
+Session2Date                         2020-07-31 15:00:00+01:00
+Session2DateUtc                            2020-07-31 14:00:00
+Session3                                            Practice 3
+Session3Date                         2020-08-01 11:00:00+01:00
+Session3DateUtc                            2020-08-01 10:00:00
+Session4                                            Qualifying
+Session4Date                         2020-08-01 14:00:00+01:00
+Session4DateUtc                            2020-08-01 13:00:00
+Session5                                                  Race
+Session5Date                         2020-08-02 14:10:00+01:00
+Session5DateUtc                            2020-08-02 13:10:00
+F1ApiSupport                                              True
+Name: 5, dtype: object
+2020 FORMULA 1 PIRELLI BRITISH GRAND PRIX 2020 S
+Exception Session type 'S' does not exist for this event
+2020 FORMULA 1 PIRELLI BRITISH GRAND PRIX 2020 SS
+Exception Session type 'SS' does not exist for this event
+2020 FORMULA 1 PIRELLI BRITISH GRAND PRIX 2020 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                          5
+Country                                                  Great Britain
+Location                                                   Silverstone
+OfficialEventName    EMIRATES FORMULA 1 70TH ANNIVERSARY GRAND PRIX...
+EventDate                                          2020-08-09 00:00:00
+EventName                                  70th Anniversary Grand Prix
+EventFormat                                               conventional
+Session1                                                    Practice 1
+Session1Date                                 2020-08-07 11:00:00+01:00
+Session1DateUtc                                    2020-08-07 10:00:00
+Session2                                                    Practice 2
+Session2Date                                 2020-08-07 15:00:00+01:00
+Session2DateUtc                                    2020-08-07 14:00:00
+Session3                                                    Practice 3
+Session3Date                                 2020-08-08 11:00:00+01:00
+Session3DateUtc                                    2020-08-08 10:00:00
+Session4                                                    Qualifying
+Session4Date                                 2020-08-08 14:00:00+01:00
+Session4DateUtc                                    2020-08-08 13:00:00
+Session5                                                          Race
+Session5Date                                 2020-08-09 14:10:00+01:00
+Session5DateUtc                                    2020-08-09 13:10:00
+F1ApiSupport                                                      True
+Name: 6, dtype: object
+2020 EMIRATES FORMULA 1 70TH ANNIVERSARY GRAND PRIX 2020 S
+Exception Session type 'S' does not exist for this event
+2020 EMIRATES FORMULA 1 70TH ANNIVERSARY GRAND PRIX 2020 SS
+Exception Session type 'SS' does not exist for this event
+2020 EMIRATES FORMULA 1 70TH ANNIVERSARY GRAND PRIX 2020 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                    6
+Country                                                    Spain
+Location                                               Barcelona
+OfficialEventName    FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2020
+EventDate                                    2020-08-16 00:00:00
+EventName                                     Spanish Grand Prix
+EventFormat                                         conventional
+Session1                                              Practice 1
+Session1Date                           2020-08-14 11:00:00+02:00
+Session1DateUtc                              2020-08-14 09:00:00
+Session2                                              Practice 2
+Session2Date                           2020-08-14 15:00:00+02:00
+Session2DateUtc                              2020-08-14 13:00:00
+Session3                                              Practice 3
+Session3Date                           2020-08-15 12:00:00+02:00
+Session3DateUtc                              2020-08-15 10:00:00
+Session4                                              Qualifying
+Session4Date                           2020-08-15 15:00:00+02:00
+Session4DateUtc                              2020-08-15 13:00:00
+Session5                                                    Race
+Session5Date                           2020-08-16 15:10:00+02:00
+Session5DateUtc                              2020-08-16 13:10:00
+F1ApiSupport                                                True
+Name: 7, dtype: object
+2020 FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2020 S
+Exception Session type 'S' does not exist for this event
+2020 FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2020 SS
+Exception Session type 'SS' does not exist for this event
+2020 FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2020 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                7
+Country                                              Belgium
+Location                                   Spa-Francorchamps
+OfficialEventName    FORMULA 1 ROLEX BELGIAN GRAND PRIX 2020
+EventDate                                2020-08-30 00:00:00
+EventName                                 Belgian Grand Prix
+EventFormat                                     conventional
+Session1                                          Practice 1
+Session1Date                       2020-08-28 11:00:00+02:00
+Session1DateUtc                          2020-08-28 09:00:00
+Session2                                          Practice 2
+Session2Date                       2020-08-28 15:00:00+02:00
+Session2DateUtc                          2020-08-28 13:00:00
+Session3                                          Practice 3
+Session3Date                       2020-08-29 12:00:00+02:00
+Session3DateUtc                          2020-08-29 10:00:00
+Session4                                          Qualifying
+Session4Date                       2020-08-29 15:00:00+02:00
+Session4DateUtc                          2020-08-29 13:00:00
+Session5                                                Race
+Session5Date                       2020-08-30 15:10:00+02:00
+Session5DateUtc                          2020-08-30 13:10:00
+F1ApiSupport                                            True
+Name: 8, dtype: object
+2020 FORMULA 1 ROLEX BELGIAN GRAND PRIX 2020 S
+Exception Session type 'S' does not exist for this event
+2020 FORMULA 1 ROLEX BELGIAN GRAND PRIX 2020 SS
+Exception Session type 'SS' does not exist for this event
+2020 FORMULA 1 ROLEX BELGIAN GRAND PRIX 2020 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                     8
+Country                                                     Italy
+Location                                                    Monza
+OfficialEventName    FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020
+EventDate                                     2020-09-06 00:00:00
+EventName                                      Italian Grand Prix
+EventFormat                                          conventional
+Session1                                               Practice 1
+Session1Date                            2020-09-04 11:00:00+02:00
+Session1DateUtc                               2020-09-04 09:00:00
+Session2                                               Practice 2
+Session2Date                            2020-09-04 15:00:00+02:00
+Session2DateUtc                               2020-09-04 13:00:00
+Session3                                               Practice 3
+Session3Date                            2020-09-05 12:00:00+02:00
+Session3DateUtc                               2020-09-05 10:00:00
+Session4                                               Qualifying
+Session4Date                            2020-09-05 15:00:00+02:00
+Session4DateUtc                               2020-09-05 13:00:00
+Session5                                                     Race
+Session5Date                            2020-09-06 15:10:00+02:00
+Session5DateUtc                               2020-09-06 13:10:00
+F1ApiSupport                                                 True
+Name: 9, dtype: object
+2020 FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020 S
+Exception Session type 'S' does not exist for this event
+2020 FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020 SS
+Exception Session type 'SS' does not exist for this event
+2020 FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                          9
+Country                                                          Italy
+Location                                                       Mugello
+OfficialEventName    FORMULA 1 PIRELLI GRAN PREMIO DELLA TOSCANA FE...
+EventDate                                          2020-09-13 00:00:00
+EventName                                            Tuscan Grand Prix
+EventFormat                                               conventional
+Session1                                                    Practice 1
+Session1Date                                 2020-09-11 11:00:00+02:00
+Session1DateUtc                                    2020-09-11 09:00:00
+Session2                                                    Practice 2
+Session2Date                                 2020-09-11 15:00:00+02:00
+Session2DateUtc                                    2020-09-11 13:00:00
+Session3                                                    Practice 3
+Session3Date                                 2020-09-12 12:00:00+02:00
+Session3DateUtc                                    2020-09-12 10:00:00
+Session4                                                    Qualifying
+Session4Date                                 2020-09-12 15:00:00+02:00
+Session4DateUtc                                    2020-09-12 13:00:00
+Session5                                                          Race
+Session5Date                                 2020-09-13 15:10:00+02:00
+Session5DateUtc                                    2020-09-13 13:10:00
+F1ApiSupport                                                      True
+Name: 10, dtype: object
+2020 FORMULA 1 PIRELLI GRAN PREMIO DELLA TOSCANA FERRARI 1000 2020 S
+Exception Session type 'S' does not exist for this event
+2020 FORMULA 1 PIRELLI GRAN PREMIO DELLA TOSCANA FERRARI 1000 2020 SS
+Exception Session type 'SS' does not exist for this event
+2020 FORMULA 1 PIRELLI GRAN PREMIO DELLA TOSCANA FERRARI 1000 2020 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                             10
+Country                                             Russia
+Location                                             Sochi
+OfficialEventName    FORMULA 1 VTB RUSSIAN GRAND PRIX 2020
+EventDate                              2020-09-27 00:00:00
+EventName                               Russian Grand Prix
+EventFormat                                   conventional
+Session1                                        Practice 1
+Session1Date                     2020-09-25 11:00:00+03:00
+Session1DateUtc                        2020-09-25 08:00:00
+Session2                                        Practice 2
+Session2Date                     2020-09-25 15:00:00+03:00
+Session2DateUtc                        2020-09-25 12:00:00
+Session3                                        Practice 3
+Session3Date                     2020-09-26 12:00:00+03:00
+Session3DateUtc                        2020-09-26 09:00:00
+Session4                                        Qualifying
+Session4Date                     2020-09-26 15:00:00+03:00
+Session4DateUtc                        2020-09-26 12:00:00
+Session5                                              Race
+Session5Date                     2020-09-27 14:10:00+03:00
+Session5DateUtc                        2020-09-27 11:10:00
+F1ApiSupport                                          True
+Name: 11, dtype: object
+2020 FORMULA 1 VTB RUSSIAN GRAND PRIX 2020 S
+Exception Session type 'S' does not exist for this event
+2020 FORMULA 1 VTB RUSSIAN GRAND PRIX 2020 SS
+Exception Session type 'SS' does not exist for this event
+2020 FORMULA 1 VTB RUSSIAN GRAND PRIX 2020 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                     11
+Country                                                    Germany
+Location                                               Nürburgring
+OfficialEventName    FORMULA 1 ARAMCO GROSSER PREIS DER EIFEL 2020
+EventDate                                      2020-10-11 00:00:00
+EventName                                         Eifel Grand Prix
+EventFormat                                           conventional
+Session1                                                Practice 1
+Session1Date                             2020-10-09 11:00:00+02:00
+Session1DateUtc                                2020-10-09 09:00:00
+Session2                                                Practice 2
+Session2Date                             2020-10-09 15:00:00+02:00
+Session2DateUtc                                2020-10-09 13:00:00
+Session3                                                Practice 3
+Session3Date                             2020-10-10 12:00:00+02:00
+Session3DateUtc                                2020-10-10 10:00:00
+Session4                                                Qualifying
+Session4Date                             2020-10-10 15:00:00+02:00
+Session4DateUtc                                2020-10-10 13:00:00
+Session5                                                      Race
+Session5Date                             2020-10-11 14:10:00+02:00
+Session5DateUtc                                2020-10-11 12:10:00
+F1ApiSupport                                                  True
+Name: 12, dtype: object
+2020 FORMULA 1 ARAMCO GROSSER PREIS DER EIFEL 2020 S
+Exception Session type 'S' does not exist for this event
+2020 FORMULA 1 ARAMCO GROSSER PREIS DER EIFEL 2020 SS
+Exception Session type 'SS' does not exist for this event
+2020 FORMULA 1 ARAMCO GROSSER PREIS DER EIFEL 2020 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                         12
+Country                                                       Portugal
+Location                                                      Portimão
+OfficialEventName    FORMULA 1 HEINEKEN GRANDE PRÉMIO DE PORTUGAL 2020
+EventDate                                          2020-10-25 00:00:00
+EventName                                        Portuguese Grand Prix
+EventFormat                                               conventional
+Session1                                                    Practice 1
+Session1Date                                 2020-10-23 11:00:00+00:00
+Session1DateUtc                                    2020-10-23 11:00:00
+Session2                                                    Practice 2
+Session2Date                                 2020-10-23 15:00:00+00:00
+Session2DateUtc                                    2020-10-23 15:00:00
+Session3                                                    Practice 3
+Session3Date                                 2020-10-24 11:00:00+00:00
+Session3DateUtc                                    2020-10-24 11:00:00
+Session4                                                    Qualifying
+Session4Date                                 2020-10-24 14:00:00+00:00
+Session4DateUtc                                    2020-10-24 14:00:00
+Session5                                                          Race
+Session5Date                                 2020-10-25 13:10:00+00:00
+Session5DateUtc                                    2020-10-25 13:10:00
+F1ApiSupport                                                      True
+Name: 13, dtype: object
+2020 FORMULA 1 HEINEKEN GRANDE PRÉMIO DE PORTUGAL 2020 S
+Exception Session type 'S' does not exist for this event
+2020 FORMULA 1 HEINEKEN GRANDE PRÉMIO DE PORTUGAL 2020 SS
+Exception Session type 'SS' does not exist for this event
+2020 FORMULA 1 HEINEKEN GRANDE PRÉMIO DE PORTUGAL 2020 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                         13
+Country                                                          Italy
+Location                                                         Imola
+OfficialEventName    FORMULA 1 EMIRATES GRAN PREMIO DELL'EMILIA ROM...
+EventDate                                          2020-11-01 00:00:00
+EventName                                    Emilia Romagna Grand Prix
+EventFormat                                               conventional
+Session1                                                    Practice 1
+Session1Date                                 2020-10-31 10:00:00+01:00
+Session1DateUtc                                    2020-10-31 09:00:00
+Session2                                                              
+Session2Date                                                       NaT
+Session2DateUtc                                                    NaT
+Session3                                                              
+Session3Date                                                       NaT
+Session3DateUtc                                                    NaT
+Session4                                                    Qualifying
+Session4Date                                 2020-10-31 14:00:00+01:00
+Session4DateUtc                                    2020-10-31 13:00:00
+Session5                                                          Race
+Session5Date                                 2020-11-01 13:10:00+01:00
+Session5DateUtc                                    2020-11-01 12:10:00
+F1ApiSupport                                                      True
+Name: 14, dtype: object
+2020 FORMULA 1 EMIRATES GRAN PREMIO DELL'EMILIA ROMAGNA 2020 S
+Exception Session type 'S' does not exist for this event
+2020 FORMULA 1 EMIRATES GRAN PREMIO DELL'EMILIA ROMAGNA 2020 SS
+Exception Session type 'SS' does not exist for this event
+2020 FORMULA 1 EMIRATES GRAN PREMIO DELL'EMILIA ROMAGNA 2020 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                             14
+Country                                             Turkey
+Location                                          Istanbul
+OfficialEventName    FORMULA 1 DHL TURKISH GRAND PRIX 2020
+EventDate                              2020-11-15 00:00:00
+EventName                               Turkish Grand Prix
+EventFormat                                   conventional
+Session1                                        Practice 1
+Session1Date                     2020-11-13 11:00:00+03:00
+Session1DateUtc                        2020-11-13 08:00:00
+Session2                                        Practice 2
+Session2Date                     2020-11-13 15:00:00+03:00
+Session2DateUtc                        2020-11-13 12:00:00
+Session3                                        Practice 3
+Session3Date                     2020-11-14 12:00:00+03:00
+Session3DateUtc                        2020-11-14 09:00:00
+Session4                                        Qualifying
+Session4Date                     2020-11-14 15:00:00+03:00
+Session4DateUtc                        2020-11-14 12:00:00
+Session5                                              Race
+Session5Date                     2020-11-15 13:10:00+03:00
+Session5DateUtc                        2020-11-15 10:10:00
+F1ApiSupport                                          True
+Name: 15, dtype: object
+2020 FORMULA 1 DHL TURKISH GRAND PRIX 2020 S
+Exception Session type 'S' does not exist for this event
+2020 FORMULA 1 DHL TURKISH GRAND PRIX 2020 SS
+Exception Session type 'SS' does not exist for this event
+2020 FORMULA 1 DHL TURKISH GRAND PRIX 2020 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                  15
+Country                                                 Bahrain
+Location                                                 Sakhir
+OfficialEventName    FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2020
+EventDate                                   2020-11-29 00:00:00
+EventName                                    Bahrain Grand Prix
+EventFormat                                        conventional
+Session1                                             Practice 1
+Session1Date                          2020-11-27 14:00:00+03:00
+Session1DateUtc                             2020-11-27 11:00:00
+Session2                                             Practice 2
+Session2Date                          2020-11-27 18:00:00+03:00
+Session2DateUtc                             2020-11-27 15:00:00
+Session3                                             Practice 3
+Session3Date                          2020-11-28 14:00:00+03:00
+Session3DateUtc                             2020-11-28 11:00:00
+Session4                                             Qualifying
+Session4Date                          2020-11-28 17:00:00+03:00
+Session4DateUtc                             2020-11-28 14:00:00
+Session5                                                   Race
+Session5Date                          2020-11-29 17:10:00+03:00
+Session5DateUtc                             2020-11-29 14:10:00
+F1ApiSupport                                               True
+Name: 16, dtype: object
+2020 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2020 S
+Exception Session type 'S' does not exist for this event
+2020 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2020 SS
+Exception Session type 'SS' does not exist for this event
+2020 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2020 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                              16
+Country                                             Bahrain
+Location                                             Sakhir
+OfficialEventName    FORMULA 1 ROLEX SAKHIR GRAND PRIX 2020
+EventDate                               2020-12-06 00:00:00
+EventName                                 Sakhir Grand Prix
+EventFormat                                    conventional
+Session1                                         Practice 1
+Session1Date                      2020-12-04 16:30:00+03:00
+Session1DateUtc                         2020-12-04 13:30:00
+Session2                                         Practice 2
+Session2Date                      2020-12-04 20:30:00+03:00
+Session2DateUtc                         2020-12-04 17:30:00
+Session3                                         Practice 3
+Session3Date                      2020-12-05 17:00:00+03:00
+Session3DateUtc                         2020-12-05 14:00:00
+Session4                                         Qualifying
+Session4Date                      2020-12-05 20:00:00+03:00
+Session4DateUtc                         2020-12-05 17:00:00
+Session5                                               Race
+Session5Date                      2020-12-06 20:10:00+03:00
+Session5DateUtc                         2020-12-06 17:10:00
+F1ApiSupport                                           True
+Name: 17, dtype: object
+2020 FORMULA 1 ROLEX SAKHIR GRAND PRIX 2020 S
+Exception Session type 'S' does not exist for this event
+2020 FORMULA 1 ROLEX SAKHIR GRAND PRIX 2020 SS
+Exception Session type 'SS' does not exist for this event
+2020 FORMULA 1 ROLEX SAKHIR GRAND PRIX 2020 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                         17
+Country                                                      Abu Dhabi
+Location                                                    Yas Island
+OfficialEventName    FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX ...
+EventDate                                          2020-12-13 00:00:00
+EventName                                         Abu Dhabi Grand Prix
+EventFormat                                               conventional
+Session1                                                    Practice 1
+Session1Date                                 2020-12-11 13:00:00+04:00
+Session1DateUtc                                    2020-12-11 09:00:00
+Session2                                                    Practice 2
+Session2Date                                 2020-12-11 17:00:00+04:00
+Session2DateUtc                                    2020-12-11 13:00:00
+Session3                                                    Practice 3
+Session3Date                                 2020-12-12 14:00:00+04:00
+Session3DateUtc                                    2020-12-12 10:00:00
+Session4                                                    Qualifying
+Session4Date                                 2020-12-12 17:00:00+04:00
+Session4DateUtc                                    2020-12-12 13:00:00
+Session5                                                          Race
+Session5Date                                 2020-12-13 17:10:00+04:00
+Session5DateUtc                                    2020-12-13 13:10:00
+F1ApiSupport                                                      True
+Name: 18, dtype: object
+2020 FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2020 S
+Exception Session type 'S' does not exist for this event
+2020 FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2020 SS
+Exception Session type 'SS' does not exist for this event
+2020 FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2020 SQ
+Exception Session type 'SQ' does not exist for this event
+65 for year 2020

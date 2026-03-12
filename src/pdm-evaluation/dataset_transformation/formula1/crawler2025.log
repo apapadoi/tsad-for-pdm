@@ -1,0 +1,729 @@
+RoundNumber                                                    9
+Country                                                    Spain
+Location                                               Barcelona
+OfficialEventName    FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2025
+EventDate                                    2025-06-01 00:00:00
+EventName                                     Spanish Grand Prix
+EventFormat                                         conventional
+Session1                                              Practice 1
+Session1Date                           2025-05-30 13:30:00+02:00
+Session1DateUtc                              2025-05-30 11:30:00
+Session2                                              Practice 2
+Session2Date                           2025-05-30 17:00:00+02:00
+Session2DateUtc                              2025-05-30 15:00:00
+Session3                                              Practice 3
+Session3Date                           2025-05-31 12:30:00+02:00
+Session3DateUtc                              2025-05-31 10:30:00
+Session4                                              Qualifying
+Session4Date                           2025-05-31 16:00:00+02:00
+Session4DateUtc                              2025-05-31 14:00:00
+Session5                                                    Race
+Session5Date                           2025-06-01 15:00:00+02:00
+Session5DateUtc                              2025-06-01 13:00:00
+F1ApiSupport                                                True
+Name: 9, dtype: object
+2025 FORMULA 1 ARAMCO PRE-SEASON TESTING 2025 S
+Exception Session type 'S' does not exist for this event
+2025 FORMULA 1 ARAMCO PRE-SEASON TESTING 2025 SS
+Exception Session type 'SS' does not exist for this event
+2025 FORMULA 1 ARAMCO PRE-SEASON TESTING 2025 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                          1
+Country                                                      Australia
+Location                                                     Melbourne
+OfficialEventName    FORMULA 1 LOUIS VUITTON AUSTRALIAN GRAND PRIX ...
+EventDate                                          2025-03-16 00:00:00
+EventName                                        Australian Grand Prix
+EventFormat                                               conventional
+Session1                                                    Practice 1
+Session1Date                                 2025-03-14 12:30:00+11:00
+Session1DateUtc                                    2025-03-14 01:30:00
+Session2                                                    Practice 2
+Session2Date                                 2025-03-14 16:00:00+11:00
+Session2DateUtc                                    2025-03-14 05:00:00
+Session3                                                    Practice 3
+Session3Date                                 2025-03-15 12:30:00+11:00
+Session3DateUtc                                    2025-03-15 01:30:00
+Session4                                                    Qualifying
+Session4Date                                 2025-03-15 16:00:00+11:00
+Session4DateUtc                                    2025-03-15 05:00:00
+Session5                                                          Race
+Session5Date                                 2025-03-16 15:00:00+11:00
+Session5DateUtc                                    2025-03-16 04:00:00
+F1ApiSupport                                                      True
+Name: 1, dtype: object
+2025 FORMULA 1 LOUIS VUITTON AUSTRALIAN GRAND PRIX 2025 S
+Exception Session type 'S' does not exist for this event
+2025 FORMULA 1 LOUIS VUITTON AUSTRALIAN GRAND PRIX 2025 SS
+Exception Session type 'SS' does not exist for this event
+2025 FORMULA 1 LOUIS VUITTON AUSTRALIAN GRAND PRIX 2025 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                   2
+Country                                                   China
+Location                                               Shanghai
+OfficialEventName    FORMULA 1 HEINEKEN CHINESE GRAND PRIX 2025
+EventDate                                   2025-03-23 00:00:00
+EventName                                    Chinese Grand Prix
+EventFormat                                   sprint_qualifying
+Session1                                             Practice 1
+Session1Date                          2025-03-21 11:30:00+08:00
+Session1DateUtc                             2025-03-21 03:30:00
+Session2                                      Sprint Qualifying
+Session2Date                          2025-03-21 15:30:00+08:00
+Session2DateUtc                             2025-03-21 07:30:00
+Session3                                                 Sprint
+Session3Date                          2025-03-22 11:00:00+08:00
+Session3DateUtc                             2025-03-22 03:00:00
+Session4                                             Qualifying
+Session4Date                          2025-03-22 15:00:00+08:00
+Session4DateUtc                             2025-03-22 07:00:00
+Session5                                                   Race
+Session5Date                          2025-03-23 15:00:00+08:00
+Session5DateUtc                             2025-03-23 07:00:00
+F1ApiSupport                                               True
+Name: 2, dtype: object
+2025 FORMULA 1 HEINEKEN CHINESE GRAND PRIX 2025 SS
+Exception Session type 'SS' does not exist for this event
+RoundNumber                                                   3
+Country                                                   Japan
+Location                                                 Suzuka
+OfficialEventName    FORMULA 1 LENOVO JAPANESE GRAND PRIX 2025 
+EventDate                                   2025-04-06 00:00:00
+EventName                                   Japanese Grand Prix
+EventFormat                                        conventional
+Session1                                             Practice 1
+Session1Date                          2025-04-04 11:30:00+09:00
+Session1DateUtc                             2025-04-04 02:30:00
+Session2                                             Practice 2
+Session2Date                          2025-04-04 15:00:00+09:00
+Session2DateUtc                             2025-04-04 06:00:00
+Session3                                             Practice 3
+Session3Date                          2025-04-05 11:30:00+09:00
+Session3DateUtc                             2025-04-05 02:30:00
+Session4                                             Qualifying
+Session4Date                          2025-04-05 15:00:00+09:00
+Session4DateUtc                             2025-04-05 06:00:00
+Session5                                                   Race
+Session5Date                          2025-04-06 14:00:00+09:00
+Session5DateUtc                             2025-04-06 05:00:00
+F1ApiSupport                                               True
+Name: 3, dtype: object
+2025 FORMULA 1 LENOVO JAPANESE GRAND PRIX 2025  S
+Exception Session type 'S' does not exist for this event
+2025 FORMULA 1 LENOVO JAPANESE GRAND PRIX 2025  SS
+Exception Session type 'SS' does not exist for this event
+2025 FORMULA 1 LENOVO JAPANESE GRAND PRIX 2025  SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                   4
+Country                                                 Bahrain
+Location                                                 Sakhir
+OfficialEventName    FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2025
+EventDate                                   2025-04-13 00:00:00
+EventName                                    Bahrain Grand Prix
+EventFormat                                        conventional
+Session1                                             Practice 1
+Session1Date                          2025-04-11 14:30:00+03:00
+Session1DateUtc                             2025-04-11 11:30:00
+Session2                                             Practice 2
+Session2Date                          2025-04-11 18:00:00+03:00
+Session2DateUtc                             2025-04-11 15:00:00
+Session3                                             Practice 3
+Session3Date                          2025-04-12 15:30:00+03:00
+Session3DateUtc                             2025-04-12 12:30:00
+Session4                                             Qualifying
+Session4Date                          2025-04-12 19:00:00+03:00
+Session4DateUtc                             2025-04-12 16:00:00
+Session5                                                   Race
+Session5Date                          2025-04-13 18:00:00+03:00
+Session5DateUtc                             2025-04-13 15:00:00
+F1ApiSupport                                               True
+Name: 4, dtype: object
+2025 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2025 S
+Exception Session type 'S' does not exist for this event
+2025 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2025 SS
+Exception Session type 'SS' does not exist for this event
+2025 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2025 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                    5
+Country                                             Saudi Arabia
+Location                                                  Jeddah
+OfficialEventName    FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2025
+EventDate                                    2025-04-20 00:00:00
+EventName                               Saudi Arabian Grand Prix
+EventFormat                                         conventional
+Session1                                              Practice 1
+Session1Date                           2025-04-18 16:30:00+03:00
+Session1DateUtc                              2025-04-18 13:30:00
+Session2                                              Practice 2
+Session2Date                           2025-04-18 20:00:00+03:00
+Session2DateUtc                              2025-04-18 17:00:00
+Session3                                              Practice 3
+Session3Date                           2025-04-19 16:30:00+03:00
+Session3DateUtc                              2025-04-19 13:30:00
+Session4                                              Qualifying
+Session4Date                           2025-04-19 20:00:00+03:00
+Session4DateUtc                              2025-04-19 17:00:00
+Session5                                                    Race
+Session5Date                           2025-04-20 20:00:00+03:00
+Session5DateUtc                              2025-04-20 17:00:00
+F1ApiSupport                                                True
+Name: 5, dtype: object
+2025 FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2025 S
+Exception Session type 'S' does not exist for this event
+2025 FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2025 SS
+Exception Session type 'SS' does not exist for this event
+2025 FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2025 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                   6
+Country                                           United States
+Location                                                  Miami
+OfficialEventName    FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2025
+EventDate                                   2025-05-04 00:00:00
+EventName                                      Miami Grand Prix
+EventFormat                                   sprint_qualifying
+Session1                                             Practice 1
+Session1Date                          2025-05-02 12:30:00-04:00
+Session1DateUtc                             2025-05-02 16:30:00
+Session2                                      Sprint Qualifying
+Session2Date                          2025-05-02 16:30:00-04:00
+Session2DateUtc                             2025-05-02 20:30:00
+Session3                                                 Sprint
+Session3Date                          2025-05-03 12:00:00-04:00
+Session3DateUtc                             2025-05-03 16:00:00
+Session4                                             Qualifying
+Session4Date                          2025-05-03 16:00:00-04:00
+Session4DateUtc                             2025-05-03 20:00:00
+Session5                                                   Race
+Session5Date                          2025-05-04 16:00:00-04:00
+Session5DateUtc                             2025-05-04 20:00:00
+F1ApiSupport                                               True
+Name: 6, dtype: object
+2025 FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2025 S
+Exception Cannot slice telemetry because self contains no driver number!
+2025 FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2025 SS
+Exception Session type 'SS' does not exist for this event
+RoundNumber                                                          7
+Country                                                          Italy
+Location                                                         Imola
+OfficialEventName    FORMULA 1 AWS GRAN PREMIO DEL MADE IN ITALY E ...
+EventDate                                          2025-05-18 00:00:00
+EventName                                    Emilia Romagna Grand Prix
+EventFormat                                               conventional
+Session1                                                    Practice 1
+Session1Date                                 2025-05-16 13:30:00+02:00
+Session1DateUtc                                    2025-05-16 11:30:00
+Session2                                                    Practice 2
+Session2Date                                 2025-05-16 17:00:00+02:00
+Session2DateUtc                                    2025-05-16 15:00:00
+Session3                                                    Practice 3
+Session3Date                                 2025-05-17 12:30:00+02:00
+Session3DateUtc                                    2025-05-17 10:30:00
+Session4                                                    Qualifying
+Session4Date                                 2025-05-17 16:00:00+02:00
+Session4DateUtc                                    2025-05-17 14:00:00
+Session5                                                          Race
+Session5Date                                 2025-05-18 15:00:00+02:00
+Session5DateUtc                                    2025-05-18 13:00:00
+F1ApiSupport                                                      True
+Name: 7, dtype: object
+2025 FORMULA 1 AWS GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA-ROMAGNA 2025 S
+Exception Session type 'S' does not exist for this event
+2025 FORMULA 1 AWS GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA-ROMAGNA 2025 SS
+Exception Session type 'SS' does not exist for this event
+2025 FORMULA 1 AWS GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA-ROMAGNA 2025 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                      8
+Country                                                     Monaco
+Location                                                    Monaco
+OfficialEventName    FORMULA 1 TAG HEUER GRAND PRIX DE MONACO 2025
+EventDate                                      2025-05-25 00:00:00
+EventName                                        Monaco Grand Prix
+EventFormat                                           conventional
+Session1                                                Practice 1
+Session1Date                             2025-05-23 13:30:00+02:00
+Session1DateUtc                                2025-05-23 11:30:00
+Session2                                                Practice 2
+Session2Date                             2025-05-23 17:00:00+02:00
+Session2DateUtc                                2025-05-23 15:00:00
+Session3                                                Practice 3
+Session3Date                             2025-05-24 12:30:00+02:00
+Session3DateUtc                                2025-05-24 10:30:00
+Session4                                                Qualifying
+Session4Date                             2025-05-24 16:00:00+02:00
+Session4DateUtc                                2025-05-24 14:00:00
+Session5                                                      Race
+Session5Date                             2025-05-25 15:00:00+02:00
+Session5DateUtc                                2025-05-25 13:00:00
+F1ApiSupport                                                  True
+Name: 8, dtype: object
+2025 FORMULA 1 TAG HEUER GRAND PRIX DE MONACO 2025 S
+Exception Session type 'S' does not exist for this event
+2025 FORMULA 1 TAG HEUER GRAND PRIX DE MONACO 2025 SS
+Exception Session type 'SS' does not exist for this event
+2025 FORMULA 1 TAG HEUER GRAND PRIX DE MONACO 2025 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                    9
+Country                                                    Spain
+Location                                               Barcelona
+OfficialEventName    FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2025
+EventDate                                    2025-06-01 00:00:00
+EventName                                     Spanish Grand Prix
+EventFormat                                         conventional
+Session1                                              Practice 1
+Session1Date                           2025-05-30 13:30:00+02:00
+Session1DateUtc                              2025-05-30 11:30:00
+Session2                                              Practice 2
+Session2Date                           2025-05-30 17:00:00+02:00
+Session2DateUtc                              2025-05-30 15:00:00
+Session3                                              Practice 3
+Session3Date                           2025-05-31 12:30:00+02:00
+Session3DateUtc                              2025-05-31 10:30:00
+Session4                                              Qualifying
+Session4Date                           2025-05-31 16:00:00+02:00
+Session4DateUtc                              2025-05-31 14:00:00
+Session5                                                    Race
+Session5Date                           2025-06-01 15:00:00+02:00
+Session5DateUtc                              2025-06-01 13:00:00
+F1ApiSupport                                                True
+Name: 9, dtype: object
+2025 FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2025 S
+Exception Session type 'S' does not exist for this event
+2025 FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2025 SS
+Exception Session type 'SS' does not exist for this event
+2025 FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2025 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                   10
+Country                                                   Canada
+Location                                                Montréal
+OfficialEventName    FORMULA 1 PIRELLI GRAND PRIX DU CANADA 2025
+EventDate                                    2025-06-15 00:00:00
+EventName                                    Canadian Grand Prix
+EventFormat                                         conventional
+Session1                                              Practice 1
+Session1Date                           2025-06-13 13:30:00-04:00
+Session1DateUtc                              2025-06-13 17:30:00
+Session2                                              Practice 2
+Session2Date                           2025-06-13 17:00:00-04:00
+Session2DateUtc                              2025-06-13 21:00:00
+Session3                                              Practice 3
+Session3Date                           2025-06-14 12:30:00-04:00
+Session3DateUtc                              2025-06-14 16:30:00
+Session4                                              Qualifying
+Session4Date                           2025-06-14 16:00:00-04:00
+Session4DateUtc                              2025-06-14 20:00:00
+Session5                                                    Race
+Session5Date                           2025-06-15 14:00:00-04:00
+Session5DateUtc                              2025-06-15 18:00:00
+F1ApiSupport                                                True
+Name: 10, dtype: object
+2025 FORMULA 1 PIRELLI GRAND PRIX DU CANADA 2025 S
+Exception Session type 'S' does not exist for this event
+2025 FORMULA 1 PIRELLI GRAND PRIX DU CANADA 2025 SS
+Exception Session type 'SS' does not exist for this event
+2025 FORMULA 1 PIRELLI GRAND PRIX DU CANADA 2025 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                      11
+Country                                                     Austria
+Location                                                  Spielberg
+OfficialEventName    FORMULA 1 MSC CRUISES AUSTRIAN GRAND PRIX 2025
+EventDate                                       2025-06-29 00:00:00
+EventName                                       Austrian Grand Prix
+EventFormat                                            conventional
+Session1                                                 Practice 1
+Session1Date                              2025-06-27 13:30:00+02:00
+Session1DateUtc                                 2025-06-27 11:30:00
+Session2                                                 Practice 2
+Session2Date                              2025-06-27 17:00:00+02:00
+Session2DateUtc                                 2025-06-27 15:00:00
+Session3                                                 Practice 3
+Session3Date                              2025-06-28 12:30:00+02:00
+Session3DateUtc                                 2025-06-28 10:30:00
+Session4                                                 Qualifying
+Session4Date                              2025-06-28 16:00:00+02:00
+Session4DateUtc                                 2025-06-28 14:00:00
+Session5                                                       Race
+Session5Date                              2025-06-29 15:00:00+02:00
+Session5DateUtc                                 2025-06-29 13:00:00
+F1ApiSupport                                                   True
+Name: 11, dtype: object
+2025 FORMULA 1 MSC CRUISES AUSTRIAN GRAND PRIX 2025 S
+Exception Session type 'S' does not exist for this event
+2025 FORMULA 1 MSC CRUISES AUSTRIAN GRAND PRIX 2025 SS
+Exception Session type 'SS' does not exist for this event
+2025 FORMULA 1 MSC CRUISES AUSTRIAN GRAND PRIX 2025 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                       12
+Country                                               United Kingdom
+Location                                                 Silverstone
+OfficialEventName    FORMULA 1 QATAR AIRWAYS BRITISH GRAND PRIX 2025
+EventDate                                        2025-07-06 00:00:00
+EventName                                         British Grand Prix
+EventFormat                                             conventional
+Session1                                                  Practice 1
+Session1Date                               2025-07-04 12:30:00+01:00
+Session1DateUtc                                  2025-07-04 11:30:00
+Session2                                                  Practice 2
+Session2Date                               2025-07-04 16:00:00+01:00
+Session2DateUtc                                  2025-07-04 15:00:00
+Session3                                                  Practice 3
+Session3Date                               2025-07-05 11:30:00+01:00
+Session3DateUtc                                  2025-07-05 10:30:00
+Session4                                                  Qualifying
+Session4Date                               2025-07-05 15:00:00+01:00
+Session4DateUtc                                  2025-07-05 14:00:00
+Session5                                                        Race
+Session5Date                               2025-07-06 15:00:00+01:00
+Session5DateUtc                                  2025-07-06 14:00:00
+F1ApiSupport                                                    True
+Name: 12, dtype: object
+2025 FORMULA 1 QATAR AIRWAYS BRITISH GRAND PRIX 2025 S
+Exception Session type 'S' does not exist for this event
+2025 FORMULA 1 QATAR AIRWAYS BRITISH GRAND PRIX 2025 SS
+Exception Session type 'SS' does not exist for this event
+2025 FORMULA 1 QATAR AIRWAYS BRITISH GRAND PRIX 2025 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                        13
+Country                                                       Belgium
+Location                                            Spa-Francorchamps
+OfficialEventName    FORMULA 1 MOËT & CHANDON BELGIAN GRAND PRIX 2025
+EventDate                                         2025-07-27 00:00:00
+EventName                                          Belgian Grand Prix
+EventFormat                                         sprint_qualifying
+Session1                                                   Practice 1
+Session1Date                                2025-07-25 12:30:00+02:00
+Session1DateUtc                                   2025-07-25 10:30:00
+Session2                                            Sprint Qualifying
+Session2Date                                2025-07-25 16:30:00+02:00
+Session2DateUtc                                   2025-07-25 14:30:00
+Session3                                                       Sprint
+Session3Date                                2025-07-26 12:00:00+02:00
+Session3DateUtc                                   2025-07-26 10:00:00
+Session4                                                   Qualifying
+Session4Date                                2025-07-26 16:00:00+02:00
+Session4DateUtc                                   2025-07-26 14:00:00
+Session5                                                         Race
+Session5Date                                2025-07-27 15:00:00+02:00
+Session5DateUtc                                   2025-07-27 13:00:00
+F1ApiSupport                                                     True
+Name: 13, dtype: object
+2025 FORMULA 1 MOËT & CHANDON BELGIAN GRAND PRIX 2025 SS
+Exception Session type 'SS' does not exist for this event
+RoundNumber                                                  14
+Country                                                 Hungary
+Location                                               Budapest
+OfficialEventName    FORMULA 1 LENOVO HUNGARIAN GRAND PRIX 2025
+EventDate                                   2025-08-03 00:00:00
+EventName                                  Hungarian Grand Prix
+EventFormat                                        conventional
+Session1                                             Practice 1
+Session1Date                          2025-08-01 13:30:00+02:00
+Session1DateUtc                             2025-08-01 11:30:00
+Session2                                             Practice 2
+Session2Date                          2025-08-01 17:00:00+02:00
+Session2DateUtc                             2025-08-01 15:00:00
+Session3                                             Practice 3
+Session3Date                          2025-08-02 12:30:00+02:00
+Session3DateUtc                             2025-08-02 10:30:00
+Session4                                             Qualifying
+Session4Date                          2025-08-02 16:00:00+02:00
+Session4DateUtc                             2025-08-02 14:00:00
+Session5                                                   Race
+Session5Date                          2025-08-03 15:00:00+02:00
+Session5DateUtc                             2025-08-03 13:00:00
+F1ApiSupport                                               True
+Name: 14, dtype: object
+2025 FORMULA 1 LENOVO HUNGARIAN GRAND PRIX 2025 S
+Exception Session type 'S' does not exist for this event
+2025 FORMULA 1 LENOVO HUNGARIAN GRAND PRIX 2025 SS
+Exception Session type 'SS' does not exist for this event
+2025 FORMULA 1 LENOVO HUNGARIAN GRAND PRIX 2025 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                15
+Country                                           Netherlands
+Location                                            Zandvoort
+OfficialEventName    FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2025
+EventDate                                 2025-08-31 00:00:00
+EventName                                    Dutch Grand Prix
+EventFormat                                      conventional
+Session1                                           Practice 1
+Session1Date                        2025-08-29 12:30:00+02:00
+Session1DateUtc                           2025-08-29 10:30:00
+Session2                                           Practice 2
+Session2Date                        2025-08-29 16:00:00+02:00
+Session2DateUtc                           2025-08-29 14:00:00
+Session3                                           Practice 3
+Session3Date                        2025-08-30 11:30:00+02:00
+Session3DateUtc                           2025-08-30 09:30:00
+Session4                                           Qualifying
+Session4Date                        2025-08-30 15:00:00+02:00
+Session4DateUtc                           2025-08-30 13:00:00
+Session5                                                 Race
+Session5Date                        2025-08-31 15:00:00+02:00
+Session5DateUtc                           2025-08-31 13:00:00
+F1ApiSupport                                             True
+Name: 15, dtype: object
+2025 FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2025 S
+Exception Session type 'S' does not exist for this event
+2025 FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2025 SS
+Exception Session type 'SS' does not exist for this event
+2025 FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2025 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                   16
+Country                                                    Italy
+Location                                                   Monza
+OfficialEventName    FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025
+EventDate                                    2025-09-07 00:00:00
+EventName                                     Italian Grand Prix
+EventFormat                                         conventional
+Session1                                              Practice 1
+Session1Date                           2025-09-05 13:30:00+02:00
+Session1DateUtc                              2025-09-05 11:30:00
+Session2                                              Practice 2
+Session2Date                           2025-09-05 17:00:00+02:00
+Session2DateUtc                              2025-09-05 15:00:00
+Session3                                              Practice 3
+Session3Date                           2025-09-06 12:30:00+02:00
+Session3DateUtc                              2025-09-06 10:30:00
+Session4                                              Qualifying
+Session4Date                           2025-09-06 16:00:00+02:00
+Session4DateUtc                              2025-09-06 14:00:00
+Session5                                                    Race
+Session5Date                           2025-09-07 15:00:00+02:00
+Session5DateUtc                              2025-09-07 13:00:00
+F1ApiSupport                                                True
+Name: 16, dtype: object
+2025 FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025 S
+Exception Session type 'S' does not exist for this event
+2025 FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025 SS
+Exception Session type 'SS' does not exist for this event
+2025 FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                         17
+Country                                                     Azerbaijan
+Location                                                          Baku
+OfficialEventName    FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX ...
+EventDate                                          2025-09-21 00:00:00
+EventName                                        Azerbaijan Grand Prix
+EventFormat                                               conventional
+Session1                                                    Practice 1
+Session1Date                                 2025-09-19 12:30:00+04:00
+Session1DateUtc                                    2025-09-19 08:30:00
+Session2                                                    Practice 2
+Session2Date                                 2025-09-19 16:00:00+04:00
+Session2DateUtc                                    2025-09-19 12:00:00
+Session3                                                    Practice 3
+Session3Date                                 2025-09-20 12:30:00+04:00
+Session3DateUtc                                    2025-09-20 08:30:00
+Session4                                                    Qualifying
+Session4Date                                 2025-09-20 16:00:00+04:00
+Session4DateUtc                                    2025-09-20 12:00:00
+Session5                                                          Race
+Session5Date                                 2025-09-21 15:00:00+04:00
+Session5DateUtc                                    2025-09-21 11:00:00
+F1ApiSupport                                                      True
+Name: 17, dtype: object
+2025 FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2025 S
+Exception Session type 'S' does not exist for this event
+2025 FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2025 SS
+Exception Session type 'SS' does not exist for this event
+2025 FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2025 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                         18
+Country                                                      Singapore
+Location                                                    Marina Bay
+OfficialEventName    FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND P...
+EventDate                                          2025-10-05 00:00:00
+EventName                                         Singapore Grand Prix
+EventFormat                                               conventional
+Session1                                                    Practice 1
+Session1Date                                 2025-10-03 17:30:00+08:00
+Session1DateUtc                                    2025-10-03 09:30:00
+Session2                                                    Practice 2
+Session2Date                                 2025-10-03 21:00:00+08:00
+Session2DateUtc                                    2025-10-03 13:00:00
+Session3                                                    Practice 3
+Session3Date                                 2025-10-04 17:30:00+08:00
+Session3DateUtc                                    2025-10-04 09:30:00
+Session4                                                    Qualifying
+Session4Date                                 2025-10-04 21:00:00+08:00
+Session4DateUtc                                    2025-10-04 13:00:00
+Session5                                                          Race
+Session5Date                                 2025-10-05 20:00:00+08:00
+Session5DateUtc                                    2025-10-05 12:00:00
+F1ApiSupport                                                      True
+Name: 18, dtype: object
+2025 FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2025 S
+Exception Session type 'S' does not exist for this event
+2025 FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2025 SS
+Exception Session type 'SS' does not exist for this event
+2025 FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2025 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                         19
+Country                                                  United States
+Location                                                        Austin
+OfficialEventName    FORMULA 1 MSC CRUISES UNITED STATES GRAND PRIX...
+EventDate                                          2025-10-19 00:00:00
+EventName                                     United States Grand Prix
+EventFormat                                          sprint_qualifying
+Session1                                                    Practice 1
+Session1Date                                 2025-10-17 12:30:00-05:00
+Session1DateUtc                                    2025-10-17 17:30:00
+Session2                                             Sprint Qualifying
+Session2Date                                 2025-10-17 16:30:00-05:00
+Session2DateUtc                                    2025-10-17 21:30:00
+Session3                                                        Sprint
+Session3Date                                 2025-10-18 12:00:00-05:00
+Session3DateUtc                                    2025-10-18 17:00:00
+Session4                                                    Qualifying
+Session4Date                                 2025-10-18 16:00:00-05:00
+Session4DateUtc                                    2025-10-18 21:00:00
+Session5                                                          Race
+Session5Date                                 2025-10-19 14:00:00-05:00
+Session5DateUtc                                    2025-10-19 19:00:00
+F1ApiSupport                                                      True
+Name: 19, dtype: object
+2025 FORMULA 1 MSC CRUISES UNITED STATES GRAND PRIX 2025 SS
+Exception Session type 'SS' does not exist for this event
+RoundNumber                                                         20
+Country                                                         Mexico
+Location                                                   Mexico City
+OfficialEventName    FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2025
+EventDate                                          2025-10-26 00:00:00
+EventName                                       Mexico City Grand Prix
+EventFormat                                               conventional
+Session1                                                    Practice 1
+Session1Date                                 2025-10-24 12:30:00-06:00
+Session1DateUtc                                    2025-10-24 18:30:00
+Session2                                                    Practice 2
+Session2Date                                 2025-10-24 16:00:00-06:00
+Session2DateUtc                                    2025-10-24 22:00:00
+Session3                                                    Practice 3
+Session3Date                                 2025-10-25 11:30:00-06:00
+Session3DateUtc                                    2025-10-25 17:30:00
+Session4                                                    Qualifying
+Session4Date                                 2025-10-25 15:00:00-06:00
+Session4DateUtc                                    2025-10-25 21:00:00
+Session5                                                          Race
+Session5Date                                 2025-10-26 14:00:00-06:00
+Session5DateUtc                                    2025-10-26 20:00:00
+F1ApiSupport                                                      True
+Name: 20, dtype: object
+2025 FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2025 S
+Exception Session type 'S' does not exist for this event
+2025 FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2025 SS
+Exception Session type 'SS' does not exist for this event
+2025 FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2025 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                         21
+Country                                                         Brazil
+Location                                                     São Paulo
+OfficialEventName    FORMULA 1 MSC CRUISES GRANDE PRÊMIO DE SÃO PAU...
+EventDate                                          2025-11-09 00:00:00
+EventName                                         São Paulo Grand Prix
+EventFormat                                          sprint_qualifying
+Session1                                                    Practice 1
+Session1Date                                 2025-11-07 11:30:00-03:00
+Session1DateUtc                                    2025-11-07 14:30:00
+Session2                                             Sprint Qualifying
+Session2Date                                 2025-11-07 15:30:00-03:00
+Session2DateUtc                                    2025-11-07 18:30:00
+Session3                                                        Sprint
+Session3Date                                 2025-11-08 11:00:00-03:00
+Session3DateUtc                                    2025-11-08 14:00:00
+Session4                                                    Qualifying
+Session4Date                                 2025-11-08 15:00:00-03:00
+Session4DateUtc                                    2025-11-08 18:00:00
+Session5                                                          Race
+Session5Date                                 2025-11-09 14:00:00-03:00
+Session5DateUtc                                    2025-11-09 17:00:00
+F1ApiSupport                                                      True
+Name: 21, dtype: object
+2025 FORMULA 1 MSC CRUISES GRANDE PRÊMIO DE SÃO PAULO 2025 SS
+Exception Session type 'SS' does not exist for this event
+RoundNumber                                                    22
+Country                                             United States
+Location                                                Las Vegas
+OfficialEventName    FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2025
+EventDate                                     2025-11-22 00:00:00
+EventName                                    Las Vegas Grand Prix
+EventFormat                                          conventional
+Session1                                               Practice 1
+Session1Date                            2025-11-20 16:30:00-08:00
+Session1DateUtc                               2025-11-21 00:30:00
+Session2                                               Practice 2
+Session2Date                            2025-11-20 20:00:00-08:00
+Session2DateUtc                               2025-11-21 04:00:00
+Session3                                               Practice 3
+Session3Date                            2025-11-21 16:30:00-08:00
+Session3DateUtc                               2025-11-22 00:30:00
+Session4                                               Qualifying
+Session4Date                            2025-11-21 20:00:00-08:00
+Session4DateUtc                               2025-11-22 04:00:00
+Session5                                                     Race
+Session5Date                            2025-11-22 20:00:00-08:00
+Session5DateUtc                               2025-11-23 04:00:00
+F1ApiSupport                                                 True
+Name: 22, dtype: object
+2025 FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2025 S
+Exception Session type 'S' does not exist for this event
+2025 FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2025 SS
+Exception Session type 'SS' does not exist for this event
+2025 FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2025 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                     23
+Country                                                      Qatar
+Location                                                    Lusail
+OfficialEventName    FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2025
+EventDate                                      2025-11-30 00:00:00
+EventName                                         Qatar Grand Prix
+EventFormat                                      sprint_qualifying
+Session1                                                Practice 1
+Session1Date                             2025-11-28 16:30:00+03:00
+Session1DateUtc                                2025-11-28 13:30:00
+Session2                                         Sprint Qualifying
+Session2Date                             2025-11-28 20:30:00+03:00
+Session2DateUtc                                2025-11-28 17:30:00
+Session3                                                    Sprint
+Session3Date                             2025-11-29 17:00:00+03:00
+Session3DateUtc                                2025-11-29 14:00:00
+Session4                                                Qualifying
+Session4Date                             2025-11-29 21:00:00+03:00
+Session4DateUtc                                2025-11-29 18:00:00
+Session5                                                      Race
+Session5Date                             2025-11-30 19:00:00+03:00
+Session5DateUtc                                2025-11-30 16:00:00
+F1ApiSupport                                                  True
+Name: 23, dtype: object
+2025 FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2025 SS
+Exception Session type 'SS' does not exist for this event
+RoundNumber                                                         24
+Country                                           United Arab Emirates
+Location                                                    Yas Island
+OfficialEventName    FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX ...
+EventDate                                          2025-12-07 00:00:00
+EventName                                         Abu Dhabi Grand Prix
+EventFormat                                               conventional
+Session1                                                    Practice 1
+Session1Date                                 2025-12-05 13:30:00+04:00
+Session1DateUtc                                    2025-12-05 09:30:00
+Session2                                                    Practice 2
+Session2Date                                 2025-12-05 17:00:00+04:00
+Session2DateUtc                                    2025-12-05 13:00:00
+Session3                                                    Practice 3
+Session3Date                                 2025-12-06 14:30:00+04:00
+Session3DateUtc                                    2025-12-06 10:30:00
+Session4                                                    Qualifying
+Session4Date                                 2025-12-06 18:00:00+04:00
+Session4DateUtc                                    2025-12-06 14:00:00
+Session5                                                          Race
+Session5Date                                 2025-12-07 17:00:00+04:00
+Session5DateUtc                                    2025-12-07 13:00:00
+F1ApiSupport                                                      True
+Name: 24, dtype: object
+2025 FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2025  S
+Exception Session type 'S' does not exist for this event
+2025 FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2025  SS
+Exception Session type 'SS' does not exist for this event
+2025 FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2025  SQ
+Exception Session type 'SQ' does not exist for this event
+37 for year 2025

@@ -1,0 +1,669 @@
+RoundNumber                                                10
+Country                                         Great Britain
+Location                                          Silverstone
+OfficialEventName    FORMULA 1 ARAMCO BRITISH GRAND PRIX 2023
+EventDate                                 2023-07-09 00:00:00
+EventName                                  British Grand Prix
+EventFormat                                      conventional
+Session1                                           Practice 1
+Session1Date                        2023-07-07 12:30:00+01:00
+Session1DateUtc                           2023-07-07 11:30:00
+Session2                                           Practice 2
+Session2Date                        2023-07-07 16:00:00+01:00
+Session2DateUtc                           2023-07-07 15:00:00
+Session3                                           Practice 3
+Session3Date                        2023-07-08 11:30:00+01:00
+Session3DateUtc                           2023-07-08 10:30:00
+Session4                                           Qualifying
+Session4Date                        2023-07-08 15:00:00+01:00
+Session4DateUtc                           2023-07-08 14:00:00
+Session5                                                 Race
+Session5Date                        2023-07-09 15:00:00+01:00
+Session5DateUtc                           2023-07-09 14:00:00
+F1ApiSupport                                             True
+Name: 10, dtype: object
+2023 FORMULA 1 ARAMCO PRE-SEASON TESTING 2023 S
+Exception Session type 'S' does not exist for this event
+2023 FORMULA 1 ARAMCO PRE-SEASON TESTING 2023 SS
+Exception Session type 'SS' does not exist for this event
+2023 FORMULA 1 ARAMCO PRE-SEASON TESTING 2023 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                   1
+Country                                                 Bahrain
+Location                                                 Sakhir
+OfficialEventName    FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2023
+EventDate                                   2023-03-05 00:00:00
+EventName                                    Bahrain Grand Prix
+EventFormat                                        conventional
+Session1                                             Practice 1
+Session1Date                          2023-03-03 14:30:00+03:00
+Session1DateUtc                             2023-03-03 11:30:00
+Session2                                             Practice 2
+Session2Date                          2023-03-03 18:00:00+03:00
+Session2DateUtc                             2023-03-03 15:00:00
+Session3                                             Practice 3
+Session3Date                          2023-03-04 14:30:00+03:00
+Session3DateUtc                             2023-03-04 11:30:00
+Session4                                             Qualifying
+Session4Date                          2023-03-04 18:00:00+03:00
+Session4DateUtc                             2023-03-04 15:00:00
+Session5                                                   Race
+Session5Date                          2023-03-05 18:00:00+03:00
+Session5DateUtc                             2023-03-05 15:00:00
+F1ApiSupport                                               True
+Name: 1, dtype: object
+2023 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2023 S
+Exception Session type 'S' does not exist for this event
+2023 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2023 SS
+Exception Session type 'SS' does not exist for this event
+2023 FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2023 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                    2
+Country                                             Saudi Arabia
+Location                                                  Jeddah
+OfficialEventName    FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2023
+EventDate                                    2023-03-19 00:00:00
+EventName                               Saudi Arabian Grand Prix
+EventFormat                                         conventional
+Session1                                              Practice 1
+Session1Date                           2023-03-17 16:30:00+03:00
+Session1DateUtc                              2023-03-17 13:30:00
+Session2                                              Practice 2
+Session2Date                           2023-03-17 20:00:00+03:00
+Session2DateUtc                              2023-03-17 17:00:00
+Session3                                              Practice 3
+Session3Date                           2023-03-18 16:30:00+03:00
+Session3DateUtc                              2023-03-18 13:30:00
+Session4                                              Qualifying
+Session4Date                           2023-03-18 20:00:00+03:00
+Session4DateUtc                              2023-03-18 17:00:00
+Session5                                                    Race
+Session5Date                           2023-03-19 20:00:00+03:00
+Session5DateUtc                              2023-03-19 17:00:00
+F1ApiSupport                                                True
+Name: 2, dtype: object
+2023 FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2023 S
+Exception Session type 'S' does not exist for this event
+2023 FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2023 SS
+Exception Session type 'SS' does not exist for this event
+2023 FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2023 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                   3
+Country                                               Australia
+Location                                              Melbourne
+OfficialEventName    FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX 2023
+EventDate                                   2023-04-02 00:00:00
+EventName                                 Australian Grand Prix
+EventFormat                                        conventional
+Session1                                             Practice 1
+Session1Date                          2023-03-31 12:30:00+10:00
+Session1DateUtc                             2023-03-31 02:30:00
+Session2                                             Practice 2
+Session2Date                          2023-03-31 16:00:00+10:00
+Session2DateUtc                             2023-03-31 06:00:00
+Session3                                             Practice 3
+Session3Date                          2023-04-01 12:30:00+10:00
+Session3DateUtc                             2023-04-01 02:30:00
+Session4                                             Qualifying
+Session4Date                          2023-04-01 16:00:00+10:00
+Session4DateUtc                             2023-04-01 06:00:00
+Session5                                                   Race
+Session5Date                          2023-04-02 15:00:00+10:00
+Session5DateUtc                             2023-04-02 05:00:00
+F1ApiSupport                                               True
+Name: 3, dtype: object
+2023 FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX 2023 S
+Exception Session type 'S' does not exist for this event
+2023 FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX 2023 SS
+Exception Session type 'SS' does not exist for this event
+2023 FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX 2023 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                             4
+Country                                        Azerbaijan
+Location                                             Baku
+OfficialEventName    FORMULA 1 AZERBAIJAN GRAND PRIX 2023
+EventDate                             2023-04-30 00:00:00
+EventName                           Azerbaijan Grand Prix
+EventFormat                               sprint_shootout
+Session1                                       Practice 1
+Session1Date                    2023-04-28 13:30:00+04:00
+Session1DateUtc                       2023-04-28 09:30:00
+Session2                                       Qualifying
+Session2Date                    2023-04-28 17:00:00+04:00
+Session2DateUtc                       2023-04-28 13:00:00
+Session3                                  Sprint Shootout
+Session3Date                    2023-04-29 12:30:00+04:00
+Session3DateUtc                       2023-04-29 08:30:00
+Session4                                           Sprint
+Session4Date                    2023-04-29 17:30:00+04:00
+Session4DateUtc                       2023-04-29 13:30:00
+Session5                                             Race
+Session5Date                    2023-04-30 15:00:00+04:00
+Session5DateUtc                       2023-04-30 11:00:00
+F1ApiSupport                                         True
+Name: 4, dtype: object
+2023 FORMULA 1 AZERBAIJAN GRAND PRIX 2023 S
+Exception Cannot slice telemetry because self contains no driver number!
+2023 FORMULA 1 AZERBAIJAN GRAND PRIX 2023 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                   5
+Country                                           United States
+Location                                                  Miami
+OfficialEventName    FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2023
+EventDate                                   2023-05-07 00:00:00
+EventName                                      Miami Grand Prix
+EventFormat                                        conventional
+Session1                                             Practice 1
+Session1Date                          2023-05-05 14:00:00-04:00
+Session1DateUtc                             2023-05-05 18:00:00
+Session2                                             Practice 2
+Session2Date                          2023-05-05 17:30:00-04:00
+Session2DateUtc                             2023-05-05 21:30:00
+Session3                                             Practice 3
+Session3Date                          2023-05-06 12:30:00-04:00
+Session3DateUtc                             2023-05-06 16:30:00
+Session4                                             Qualifying
+Session4Date                          2023-05-06 16:00:00-04:00
+Session4DateUtc                             2023-05-06 20:00:00
+Session5                                                   Race
+Session5Date                          2023-05-07 15:30:00-04:00
+Session5DateUtc                             2023-05-07 19:30:00
+F1ApiSupport                                               True
+Name: 5, dtype: object
+2023 FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2023 S
+Exception Session type 'S' does not exist for this event
+2023 FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2023 SS
+Exception Session type 'SS' does not exist for this event
+2023 FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2023 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                            6
+Country                                           Monaco
+Location                                          Monaco
+OfficialEventName    FORMULA 1 GRAND PRIX DE MONACO 2023
+EventDate                            2023-05-28 00:00:00
+EventName                              Monaco Grand Prix
+EventFormat                                 conventional
+Session1                                      Practice 1
+Session1Date                   2023-05-26 13:30:00+02:00
+Session1DateUtc                      2023-05-26 11:30:00
+Session2                                      Practice 2
+Session2Date                   2023-05-26 17:00:00+02:00
+Session2DateUtc                      2023-05-26 15:00:00
+Session3                                      Practice 3
+Session3Date                   2023-05-27 12:30:00+02:00
+Session3DateUtc                      2023-05-27 10:30:00
+Session4                                      Qualifying
+Session4Date                   2023-05-27 16:00:00+02:00
+Session4DateUtc                      2023-05-27 14:00:00
+Session5                                            Race
+Session5Date                   2023-05-28 15:00:00+02:00
+Session5DateUtc                      2023-05-28 13:00:00
+F1ApiSupport                                        True
+Name: 6, dtype: object
+2023 FORMULA 1 GRAND PRIX DE MONACO 2023 S
+Exception Session type 'S' does not exist for this event
+2023 FORMULA 1 GRAND PRIX DE MONACO 2023 SS
+Exception Session type 'SS' does not exist for this event
+2023 FORMULA 1 GRAND PRIX DE MONACO 2023 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                 7
+Country                                                 Spain
+Location                                            Barcelona
+OfficialEventName    FORMULA 1 AWS GRAN PREMIO DE ESPAÑA 2023
+EventDate                                 2023-06-04 00:00:00
+EventName                                  Spanish Grand Prix
+EventFormat                                      conventional
+Session1                                           Practice 1
+Session1Date                        2023-06-02 13:30:00+02:00
+Session1DateUtc                           2023-06-02 11:30:00
+Session2                                           Practice 2
+Session2Date                        2023-06-02 17:00:00+02:00
+Session2DateUtc                           2023-06-02 15:00:00
+Session3                                           Practice 3
+Session3Date                        2023-06-03 12:30:00+02:00
+Session3DateUtc                           2023-06-03 10:30:00
+Session4                                           Qualifying
+Session4Date                        2023-06-03 16:00:00+02:00
+Session4DateUtc                           2023-06-03 14:00:00
+Session5                                                 Race
+Session5Date                        2023-06-04 15:00:00+02:00
+Session5DateUtc                           2023-06-04 13:00:00
+F1ApiSupport                                             True
+Name: 7, dtype: object
+2023 FORMULA 1 AWS GRAN PREMIO DE ESPAÑA 2023 S
+Exception Session type 'S' does not exist for this event
+2023 FORMULA 1 AWS GRAN PREMIO DE ESPAÑA 2023 SS
+Exception Session type 'SS' does not exist for this event
+2023 FORMULA 1 AWS GRAN PREMIO DE ESPAÑA 2023 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                    8
+Country                                                   Canada
+Location                                                Montréal
+OfficialEventName    FORMULA 1 PIRELLI GRAND PRIX DU CANADA 2023
+EventDate                                    2023-06-18 00:00:00
+EventName                                    Canadian Grand Prix
+EventFormat                                         conventional
+Session1                                              Practice 1
+Session1Date                           2023-06-16 13:30:00-04:00
+Session1DateUtc                              2023-06-16 17:30:00
+Session2                                              Practice 2
+Session2Date                           2023-06-16 16:30:00-04:00
+Session2DateUtc                              2023-06-16 20:30:00
+Session3                                              Practice 3
+Session3Date                           2023-06-17 12:30:00-04:00
+Session3DateUtc                              2023-06-17 16:30:00
+Session4                                              Qualifying
+Session4Date                           2023-06-17 16:00:00-04:00
+Session4DateUtc                              2023-06-17 20:00:00
+Session5                                                    Race
+Session5Date                           2023-06-18 14:00:00-04:00
+Session5DateUtc                              2023-06-18 18:00:00
+F1ApiSupport                                                True
+Name: 8, dtype: object
+2023 FORMULA 1 PIRELLI GRAND PRIX DU CANADA 2023 S
+Exception Session type 'S' does not exist for this event
+2023 FORMULA 1 PIRELLI GRAND PRIX DU CANADA 2023 SS
+Exception Session type 'SS' does not exist for this event
+2023 FORMULA 1 PIRELLI GRAND PRIX DU CANADA 2023 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                          9
+Country                                                        Austria
+Location                                                     Spielberg
+OfficialEventName    FORMULA 1 ROLEX GROSSER PREIS VON ÖSTERREICH 2023
+EventDate                                          2023-07-02 00:00:00
+EventName                                          Austrian Grand Prix
+EventFormat                                            sprint_shootout
+Session1                                                    Practice 1
+Session1Date                                 2023-06-30 13:30:00+02:00
+Session1DateUtc                                    2023-06-30 11:30:00
+Session2                                                    Qualifying
+Session2Date                                 2023-06-30 17:00:00+02:00
+Session2DateUtc                                    2023-06-30 15:00:00
+Session3                                               Sprint Shootout
+Session3Date                                 2023-07-01 12:00:00+02:00
+Session3DateUtc                                    2023-07-01 10:00:00
+Session4                                                        Sprint
+Session4Date                                 2023-07-01 16:30:00+02:00
+Session4DateUtc                                    2023-07-01 14:30:00
+Session5                                                          Race
+Session5Date                                 2023-07-02 15:00:00+02:00
+Session5DateUtc                                    2023-07-02 13:00:00
+F1ApiSupport                                                      True
+Name: 9, dtype: object
+2023 FORMULA 1 ROLEX GROSSER PREIS VON ÖSTERREICH 2023 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                10
+Country                                         Great Britain
+Location                                          Silverstone
+OfficialEventName    FORMULA 1 ARAMCO BRITISH GRAND PRIX 2023
+EventDate                                 2023-07-09 00:00:00
+EventName                                  British Grand Prix
+EventFormat                                      conventional
+Session1                                           Practice 1
+Session1Date                        2023-07-07 12:30:00+01:00
+Session1DateUtc                           2023-07-07 11:30:00
+Session2                                           Practice 2
+Session2Date                        2023-07-07 16:00:00+01:00
+Session2DateUtc                           2023-07-07 15:00:00
+Session3                                           Practice 3
+Session3Date                        2023-07-08 11:30:00+01:00
+Session3DateUtc                           2023-07-08 10:30:00
+Session4                                           Qualifying
+Session4Date                        2023-07-08 15:00:00+01:00
+Session4DateUtc                           2023-07-08 14:00:00
+Session5                                                 Race
+Session5Date                        2023-07-09 15:00:00+01:00
+Session5DateUtc                           2023-07-09 14:00:00
+F1ApiSupport                                             True
+Name: 10, dtype: object
+2023 FORMULA 1 ARAMCO BRITISH GRAND PRIX 2023 S
+Exception Session type 'S' does not exist for this event
+2023 FORMULA 1 ARAMCO BRITISH GRAND PRIX 2023 SS
+Exception Session type 'SS' does not exist for this event
+2023 FORMULA 1 ARAMCO BRITISH GRAND PRIX 2023 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                         11
+Country                                                        Hungary
+Location                                                      Budapest
+OfficialEventName    FORMULA 1 QATAR AIRWAYS HUNGARIAN GRAND PRIX 2023
+EventDate                                          2023-07-23 00:00:00
+EventName                                         Hungarian Grand Prix
+EventFormat                                               conventional
+Session1                                                    Practice 1
+Session1Date                                 2023-07-21 13:30:00+02:00
+Session1DateUtc                                    2023-07-21 11:30:00
+Session2                                                    Practice 2
+Session2Date                                 2023-07-21 17:00:00+02:00
+Session2DateUtc                                    2023-07-21 15:00:00
+Session3                                                    Practice 3
+Session3Date                                 2023-07-22 12:30:00+02:00
+Session3DateUtc                                    2023-07-22 10:30:00
+Session4                                                    Qualifying
+Session4Date                                 2023-07-22 16:00:00+02:00
+Session4DateUtc                                    2023-07-22 14:00:00
+Session5                                                          Race
+Session5Date                                 2023-07-23 15:00:00+02:00
+Session5DateUtc                                    2023-07-23 13:00:00
+F1ApiSupport                                                      True
+Name: 11, dtype: object
+2023 FORMULA 1 QATAR AIRWAYS HUNGARIAN GRAND PRIX 2023 S
+Exception Session type 'S' does not exist for this event
+2023 FORMULA 1 QATAR AIRWAYS HUNGARIAN GRAND PRIX 2023 SS
+Exception Session type 'SS' does not exist for this event
+2023 FORMULA 1 QATAR AIRWAYS HUNGARIAN GRAND PRIX 2023 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                     12
+Country                                                    Belgium
+Location                                         Spa-Francorchamps
+OfficialEventName    FORMULA 1 MSC CRUISES BELGIAN GRAND PRIX 2023
+EventDate                                      2023-07-30 00:00:00
+EventName                                       Belgian Grand Prix
+EventFormat                                        sprint_shootout
+Session1                                                Practice 1
+Session1Date                             2023-07-28 13:30:00+02:00
+Session1DateUtc                                2023-07-28 11:30:00
+Session2                                                Qualifying
+Session2Date                             2023-07-28 17:00:00+02:00
+Session2DateUtc                                2023-07-28 15:00:00
+Session3                                           Sprint Shootout
+Session3Date                             2023-07-29 12:00:00+02:00
+Session3DateUtc                                2023-07-29 10:00:00
+Session4                                                    Sprint
+Session4Date                             2023-07-29 17:05:00+02:00
+Session4DateUtc                                2023-07-29 15:05:00
+Session5                                                      Race
+Session5Date                             2023-07-30 15:00:00+02:00
+Session5DateUtc                                2023-07-30 13:00:00
+F1ApiSupport                                                  True
+Name: 12, dtype: object
+2023 FORMULA 1 MSC CRUISES BELGIAN GRAND PRIX 2023 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                13
+Country                                           Netherlands
+Location                                            Zandvoort
+OfficialEventName    FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2023
+EventDate                                 2023-08-27 00:00:00
+EventName                                    Dutch Grand Prix
+EventFormat                                      conventional
+Session1                                           Practice 1
+Session1Date                        2023-08-25 12:30:00+02:00
+Session1DateUtc                           2023-08-25 10:30:00
+Session2                                           Practice 2
+Session2Date                        2023-08-25 16:00:00+02:00
+Session2DateUtc                           2023-08-25 14:00:00
+Session3                                           Practice 3
+Session3Date                        2023-08-26 11:30:00+02:00
+Session3DateUtc                           2023-08-26 09:30:00
+Session4                                           Qualifying
+Session4Date                        2023-08-26 15:00:00+02:00
+Session4DateUtc                           2023-08-26 13:00:00
+Session5                                                 Race
+Session5Date                        2023-08-27 15:00:00+02:00
+Session5DateUtc                           2023-08-27 13:00:00
+F1ApiSupport                                             True
+Name: 13, dtype: object
+2023 FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2023 S
+Exception Session type 'S' does not exist for this event
+2023 FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2023 SS
+Exception Session type 'SS' does not exist for this event
+2023 FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2023 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                    14
+Country                                                     Italy
+Location                                                    Monza
+OfficialEventName    FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023 
+EventDate                                     2023-09-03 00:00:00
+EventName                                      Italian Grand Prix
+EventFormat                                          conventional
+Session1                                               Practice 1
+Session1Date                            2023-09-01 13:30:00+02:00
+Session1DateUtc                               2023-09-01 11:30:00
+Session2                                               Practice 2
+Session2Date                            2023-09-01 17:00:00+02:00
+Session2DateUtc                               2023-09-01 15:00:00
+Session3                                               Practice 3
+Session3Date                            2023-09-02 12:30:00+02:00
+Session3DateUtc                               2023-09-02 10:30:00
+Session4                                               Qualifying
+Session4Date                            2023-09-02 16:00:00+02:00
+Session4DateUtc                               2023-09-02 14:00:00
+Session5                                                     Race
+Session5Date                            2023-09-03 15:00:00+02:00
+Session5DateUtc                               2023-09-03 13:00:00
+F1ApiSupport                                                 True
+Name: 14, dtype: object
+2023 FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023  S
+Exception Session type 'S' does not exist for this event
+2023 FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023  SS
+Exception Session type 'SS' does not exist for this event
+2023 FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023  SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                         15
+Country                                                      Singapore
+Location                                                    Marina Bay
+OfficialEventName    FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND P...
+EventDate                                          2023-09-17 00:00:00
+EventName                                         Singapore Grand Prix
+EventFormat                                               conventional
+Session1                                                    Practice 1
+Session1Date                                 2023-09-15 17:30:00+08:00
+Session1DateUtc                                    2023-09-15 09:30:00
+Session2                                                    Practice 2
+Session2Date                                 2023-09-15 21:00:00+08:00
+Session2DateUtc                                    2023-09-15 13:00:00
+Session3                                                    Practice 3
+Session3Date                                 2023-09-16 17:30:00+08:00
+Session3DateUtc                                    2023-09-16 09:30:00
+Session4                                                    Qualifying
+Session4Date                                 2023-09-16 21:00:00+08:00
+Session4DateUtc                                    2023-09-16 13:00:00
+Session5                                                          Race
+Session5Date                                 2023-09-17 20:00:00+08:00
+Session5DateUtc                                    2023-09-17 12:00:00
+F1ApiSupport                                                      True
+Name: 15, dtype: object
+2023 FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2023  S
+Exception Session type 'S' does not exist for this event
+2023 FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2023  SS
+Exception Session type 'SS' does not exist for this event
+2023 FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2023  SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                  16
+Country                                                   Japan
+Location                                                 Suzuka
+OfficialEventName    FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023 
+EventDate                                   2023-09-24 00:00:00
+EventName                                   Japanese Grand Prix
+EventFormat                                        conventional
+Session1                                             Practice 1
+Session1Date                          2023-09-22 11:30:00+09:00
+Session1DateUtc                             2023-09-22 02:30:00
+Session2                                             Practice 2
+Session2Date                          2023-09-22 15:00:00+09:00
+Session2DateUtc                             2023-09-22 06:00:00
+Session3                                             Practice 3
+Session3Date                          2023-09-23 11:30:00+09:00
+Session3DateUtc                             2023-09-23 02:30:00
+Session4                                             Qualifying
+Session4Date                          2023-09-23 15:00:00+09:00
+Session4DateUtc                             2023-09-23 06:00:00
+Session5                                                   Race
+Session5Date                          2023-09-24 14:00:00+09:00
+Session5DateUtc                             2023-09-24 05:00:00
+F1ApiSupport                                               True
+Name: 16, dtype: object
+2023 FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023  S
+Exception Session type 'S' does not exist for this event
+2023 FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023  SS
+Exception Session type 'SS' does not exist for this event
+2023 FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023  SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                     17
+Country                                                      Qatar
+Location                                                    Lusail
+OfficialEventName    FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023
+EventDate                                      2023-10-08 00:00:00
+EventName                                         Qatar Grand Prix
+EventFormat                                        sprint_shootout
+Session1                                                Practice 1
+Session1Date                             2023-10-06 16:30:00+03:00
+Session1DateUtc                                2023-10-06 13:30:00
+Session2                                                Qualifying
+Session2Date                             2023-10-06 20:00:00+03:00
+Session2DateUtc                                2023-10-06 17:00:00
+Session3                                           Sprint Shootout
+Session3Date                             2023-10-07 16:20:00+03:00
+Session3DateUtc                                2023-10-07 13:20:00
+Session4                                                    Sprint
+Session4Date                             2023-10-07 20:30:00+03:00
+Session4DateUtc                                2023-10-07 17:30:00
+Session5                                                      Race
+Session5Date                             2023-10-08 20:00:00+03:00
+Session5DateUtc                                2023-10-08 17:00:00
+F1ApiSupport                                                  True
+Name: 17, dtype: object
+2023 FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                      18
+Country                                               United States
+Location                                                     Austin
+OfficialEventName    FORMULA 1 LENOVO UNITED STATES GRAND PRIX 2023
+EventDate                                       2023-10-22 00:00:00
+EventName                                  United States Grand Prix
+EventFormat                                         sprint_shootout
+Session1                                                 Practice 1
+Session1Date                              2023-10-20 12:30:00-05:00
+Session1DateUtc                                 2023-10-20 17:30:00
+Session2                                                 Qualifying
+Session2Date                              2023-10-20 16:00:00-05:00
+Session2DateUtc                                 2023-10-20 21:00:00
+Session3                                            Sprint Shootout
+Session3Date                              2023-10-21 12:30:00-05:00
+Session3DateUtc                                 2023-10-21 17:30:00
+Session4                                                     Sprint
+Session4Date                              2023-10-21 17:00:00-05:00
+Session4DateUtc                                 2023-10-21 22:00:00
+Session5                                                       Race
+Session5Date                              2023-10-22 14:00:00-05:00
+Session5DateUtc                                 2023-10-22 19:00:00
+F1ApiSupport                                                   True
+Name: 18, dtype: object
+2023 FORMULA 1 LENOVO UNITED STATES GRAND PRIX 2023 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                         19
+Country                                                         Mexico
+Location                                                   Mexico City
+OfficialEventName    FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2023
+EventDate                                          2023-10-29 00:00:00
+EventName                                       Mexico City Grand Prix
+EventFormat                                               conventional
+Session1                                                    Practice 1
+Session1Date                                 2023-10-27 12:30:00-06:00
+Session1DateUtc                                    2023-10-27 18:30:00
+Session2                                                    Practice 2
+Session2Date                                 2023-10-27 16:00:00-06:00
+Session2DateUtc                                    2023-10-27 22:00:00
+Session3                                                    Practice 3
+Session3Date                                 2023-10-28 11:30:00-06:00
+Session3DateUtc                                    2023-10-28 17:30:00
+Session4                                                    Qualifying
+Session4Date                                 2023-10-28 15:00:00-06:00
+Session4DateUtc                                    2023-10-28 21:00:00
+Session5                                                          Race
+Session5Date                                 2023-10-29 14:00:00-06:00
+Session5DateUtc                                    2023-10-29 20:00:00
+F1ApiSupport                                                      True
+Name: 19, dtype: object
+2023 FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2023 S
+Exception Session type 'S' does not exist for this event
+2023 FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2023 SS
+Exception Session type 'SS' does not exist for this event
+2023 FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2023 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                       20
+Country                                                       Brazil
+Location                                                   São Paulo
+OfficialEventName    FORMULA 1 ROLEX GRANDE PRÊMIO DE SÃO PAULO 2023
+EventDate                                        2023-11-05 00:00:00
+EventName                                       São Paulo Grand Prix
+EventFormat                                          sprint_shootout
+Session1                                                  Practice 1
+Session1Date                               2023-11-03 11:30:00-03:00
+Session1DateUtc                                  2023-11-03 14:30:00
+Session2                                                  Qualifying
+Session2Date                               2023-11-03 15:00:00-03:00
+Session2DateUtc                                  2023-11-03 18:00:00
+Session3                                             Sprint Shootout
+Session3Date                               2023-11-04 11:00:00-03:00
+Session3DateUtc                                  2023-11-04 14:00:00
+Session4                                                      Sprint
+Session4Date                               2023-11-04 15:30:00-03:00
+Session4DateUtc                                  2023-11-04 18:30:00
+Session5                                                        Race
+Session5Date                               2023-11-05 14:00:00-03:00
+Session5DateUtc                                  2023-11-05 17:00:00
+F1ApiSupport                                                    True
+Name: 20, dtype: object
+2023 FORMULA 1 ROLEX GRANDE PRÊMIO DE SÃO PAULO 2023 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                         21
+Country                                                  United States
+Location                                                     Las Vegas
+OfficialEventName    FORMULA 1 HEINEKEN SILVER LAS VEGAS GRAND PRIX...
+EventDate                                          2023-11-18 00:00:00
+EventName                                         Las Vegas Grand Prix
+EventFormat                                               conventional
+Session1                                                    Practice 1
+Session1Date                                 2023-11-16 20:30:00-08:00
+Session1DateUtc                                    2023-11-17 04:30:00
+Session2                                                    Practice 2
+Session2Date                                 2023-11-17 02:30:00-08:00
+Session2DateUtc                                    2023-11-17 10:30:00
+Session3                                                    Practice 3
+Session3Date                                 2023-11-17 20:30:00-08:00
+Session3DateUtc                                    2023-11-18 04:30:00
+Session4                                                    Qualifying
+Session4Date                                 2023-11-18 00:00:00-08:00
+Session4DateUtc                                    2023-11-18 08:00:00
+Session5                                                          Race
+Session5Date                                 2023-11-18 22:00:00-08:00
+Session5DateUtc                                    2023-11-19 06:00:00
+F1ApiSupport                                                      True
+Name: 21, dtype: object
+2023 FORMULA 1 HEINEKEN SILVER LAS VEGAS GRAND PRIX 2023 S
+Exception Session type 'S' does not exist for this event
+2023 FORMULA 1 HEINEKEN SILVER LAS VEGAS GRAND PRIX 2023 SS
+Exception Session type 'SS' does not exist for this event
+2023 FORMULA 1 HEINEKEN SILVER LAS VEGAS GRAND PRIX 2023 SQ
+Exception Session type 'SQ' does not exist for this event
+RoundNumber                                                         22
+Country                                                      Abu Dhabi
+Location                                                    Yas Island
+OfficialEventName    FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX ...
+EventDate                                          2023-11-26 00:00:00
+EventName                                         Abu Dhabi Grand Prix
+EventFormat                                               conventional
+Session1                                                    Practice 1
+Session1Date                                 2023-11-24 13:30:00+04:00
+Session1DateUtc                                    2023-11-24 09:30:00
+Session2                                                    Practice 2
+Session2Date                                 2023-11-24 17:00:00+04:00
+Session2DateUtc                                    2023-11-24 13:00:00
+Session3                                                    Practice 3
+Session3Date                                 2023-11-25 14:30:00+04:00
+Session3DateUtc                                    2023-11-25 10:30:00
+Session4                                                    Qualifying
+Session4Date                                 2023-11-25 18:00:00+04:00
+Session4DateUtc                                    2023-11-25 14:00:00
+Session5                                                          Race
+Session5Date                                 2023-11-26 17:00:00+04:00
+Session5DateUtc                                    2023-11-26 13:00:00
+F1ApiSupport                                                      True
+Name: 22, dtype: object
+2023 FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2023  S
+Exception Session type 'S' does not exist for this event
+2023 FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2023  SS
+Exception Session type 'SS' does not exist for this event
+2023 FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2023  SQ
+Exception Session type 'SQ' does not exist for this event
+56 for year 2023

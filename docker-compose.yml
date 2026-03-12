@@ -1,0 +1,41 @@
+version: "3"
+
+services:
+  pdm_evaluation_framework:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      - MLFLOW_TRACKING_URI=http://mlflow:5000
+    command: "${SCRIPT_TO_RUN}"
+    depends_on:
+      - mlflow
+      - db
+
+  mlflow:
+    build:
+      context: .
+      dockerfile: Dockerfile.mlflow
+    environment:
+      - BACKEND_STORE_URI=postgresql://postgres:password@db:5432
+      - ARTIFACTS_DESTINATION=mlflow-artifacts
+      - HOST=0.0.0.0
+    restart: unless-stopped
+    volumes:
+      - mlflow_artifacts:/usr/src/app/mlflow-artifacts
+    ports:
+      - "5000:5000"
+    depends_on:
+      - db
+
+  db:
+    image: "postgres:16.2-alpine3.19"
+    environment:
+      - POSTGRES_PASSWORD=password
+    restart: unless-stopped
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:
+  mlflow_artifacts:
