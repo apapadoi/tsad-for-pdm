@@ -1,3 +1,8 @@
+# ==============================================================================
+# This file is part of a modified distribution of TSB-UAD (https://github.com/TheDatumOrg/TSB-UAD).
+# Modifications copyright (c) 2026 Anastasios Papadopoulos, Apostolos Giannoulidis.
+# Original code licensed under Apache License, Version 2.0.
+# ==============================================================================
 
 
 

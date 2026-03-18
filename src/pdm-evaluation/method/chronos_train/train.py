@@ -1,6 +1,12 @@
 # Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
 # SPDX-License-Identifier: Apache-2.0
 
+# ==============================================================================
+# Modifications copyright (c) 2026 Anastasios Papadopoulos, Apostolos Giannoulidis
+# This file was modified for usage through another Python script.
+# Original code from Chronos (https://github.com/amazon-science/chronos-forecasting), licensed under Apache 2.0
+# ==============================================================================
+
 import ast
 import logging
 import os

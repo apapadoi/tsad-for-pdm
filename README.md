@@ -1,11 +1,21 @@
 <h2 align="center">
-The Power of Anomaly Detection in Predictive Maintenance
+(SIGMOD'26) The Power of Anomaly Detection in Predictive Maintenance
 
 ![Teaser figure of Time-series anomaly detection (TSAD) for Predictive Maintenance (PdM)](images/sigmod-teaser.png)
 
 </h2>
 
-### Full text plus Appendix is available [here](TSAD_for_PdM_Revised.pdf).
+---
+
+If you find our work useful please consider citing and giving a star :smiley:
+
+```
+
+```
+
+Please let us know if you find out a mistake or have any issues!
+
+Full text plus Appendix is available [here](TSAD_for_PdM_Revised.pdf).
 
 ## Reproducibility Guide
 

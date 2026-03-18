@@ -1,0 +1,52 @@
+The Power of Anomaly Detection in Predictive Maintenance
+Copyright 2026 Anastasios Papadopoulos, Apostolos Giannoulidis
+
+========================================================================
+Third-Party Component Acknowledgements
+========================================================================
+
+This project includes code from the "RBPR official" project.
+* License: MIT License
+* Copyright (c) 2018 Intel Corporation
+* Note: The original upstream repository is no longer available. 
+  The relevant MIT copyright notices and permission headers have been 
+  retained within the specific source files in this repository.
+
+------------------------------------------------------------------------
+
+This project includes a modified version of the TimeMixer library.
+* License: Apache License, Version 2.0
+* GitHub: https://github.com/kwuking/TimeMixer
+* Note: Modified files carry prominent notices indicating the changes 
+  made by Anastasios Papadopoulos & Apostolos Giannoulidis, as required by the Apache 2.0 License.
+
+------------------------------------------------------------------------
+
+This project includes modified code from the Chronos library.
+* License: Apache License, Version 2.0
+* GitHub: https://github.com/amazon-science/chronos-forecasting
+* Note: Modified files carry prominent notices indicating the changes 
+  made by Anastasios Papadopoulos & Apostolos Giannoulidis, as required by the Apache 2.0 License.
+
+------------------------------------------------------------------------
+
+This project includes a modified version of the TSB-UAD library.
+* License: Apache License, Version 2.0
+* GitHub: https://github.com/TheDatumOrg/TSB-UAD
+* Note: Modified files carry prominent notices indicating the changes 
+  made by Anastasios Papadopoulos & Apostolos Giannoulidis, as required by the Apache 2.0 License.
+
+------------------------------------------------------------------------
+
+This project includes a modified version of the LTSF-Linear library.
+* License: Apache License, Version 2.0
+* GitHub: https://github.com/cure-lab/LTSF-Linear
+* Note: Modified files carry prominent notices indicating the changes 
+  made by Anastasios Papadopoulos & Apostolos Giannoulidis, as required by the Apache 2.0 License.
+
+------------------------------------------------------------------------
+
+This project includes the VUS (Volume Under the Surface) library.
+* License: Apache License, Version 2.0
+* Copyright (c) The DATUM Lab
+* GitHub: https://github.com/TheDatumOrg/VUS

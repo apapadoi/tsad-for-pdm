@@ -1,3 +1,9 @@
+# ==============================================================================
+# This file is part of a modified distribution of TimeMixer.
+# Modifications copyright (c) 2026 Anastasios Papadopoulos, Apostolos Giannoulidis.
+# Original code licensed under Apache License, Version 2.0.
+# ==============================================================================
+
 from method.timemixerpp.TimeMixer.data_provider.data_loader import Dataset_Custom
 from method.timemixerpp.TimeMixer.data_provider.uea import collate_fn
 from torch.utils.data import DataLoader
